@@ -1,0 +1,616 @@
+employee_id,department,goal_id,goal_type,goal_description,target_value,current_value,achievement_rate,deadline,status
+EMP0001,Finance,GOAL_EMP0001_1,Project Completion,Improve project completion by achieving 82% target,82,77,93.90243902439023,2026-02-14,In Progress
+EMP0001,Finance,GOAL_EMP0001_2,Skill Development,Improve skill development by achieving 86% target,86,83,96.51162790697676,2025-10-15,In Progress
+EMP0001,Finance,GOAL_EMP0001_3,Leadership Development,Improve leadership development by achieving 82% target,82,83,100.0,2025-11-01,Completed
+EMP0001,Finance,GOAL_EMP0001_4,Performance Improvement,Improve performance improvement by achieving 83% target,83,89,100.0,2025-12-29,Completed
+EMP0001,Finance,GOAL_EMP0001_5,Process Optimization,Improve process optimization by achieving 83% target,83,58,69.87951807228916,2026-01-18,In Progress
+EMP0002,Product Management,GOAL_EMP0002_1,Client Satisfaction,Improve client satisfaction by achieving 91% target,91,91,100.0,2025-11-17,Completed
+EMP0002,Product Management,GOAL_EMP0002_2,Skill Development,Improve skill development by achieving 76% target,76,79,100.0,2025-11-15,Completed
+EMP0002,Product Management,GOAL_EMP0002_3,Client Satisfaction,Improve client satisfaction by achieving 77% target,77,83,100.0,2025-10-19,Completed
+EMP0002,Product Management,GOAL_EMP0002_4,Leadership Development,Improve leadership development by achieving 82% target,82,78,95.1219512195122,2025-12-07,In Progress
+EMP0003,HR,GOAL_EMP0003_1,Process Optimization,Improve process optimization by achieving 81% target,81,65,80.24691358024691,2026-01-20,In Progress
+EMP0003,HR,GOAL_EMP0003_2,Skill Development,Improve skill development by achieving 87% target,87,92,100.0,2025-10-12,Completed
+EMP0003,HR,GOAL_EMP0003_3,Client Satisfaction,Improve client satisfaction by achieving 89% target,89,97,100.0,2026-01-04,Completed
+EMP0003,HR,GOAL_EMP0003_4,Performance Improvement,Improve performance improvement by achieving 73% target,73,55,75.34246575342466,2026-01-31,In Progress
+EMP0004,Operations,GOAL_EMP0004_1,Client Satisfaction,Improve client satisfaction by achieving 94% target,94,74,78.72340425531915,2025-10-13,In Progress
+EMP0004,Operations,GOAL_EMP0004_2,Project Completion,Improve project completion by achieving 91% target,91,55,60.43956043956044,2025-09-30,In Progress
+EMP0004,Operations,GOAL_EMP0004_3,Project Completion,Improve project completion by achieving 76% target,76,80,100.0,2026-01-12,Completed
+EMP0004,Operations,GOAL_EMP0004_4,Leadership Development,Improve leadership development by achieving 83% target,83,56,67.46987951807229,2025-10-26,In Progress
+EMP0005,Engineering,GOAL_EMP0005_1,Skill Development,Improve skill development by achieving 86% target,86,65,75.5813953488372,2025-12-03,In Progress
+EMP0005,Engineering,GOAL_EMP0005_2,Project Completion,Improve project completion by achieving 88% target,88,79,89.77272727272727,2026-01-24,In Progress
+EMP0005,Engineering,GOAL_EMP0005_3,Leadership Development,Improve leadership development by achieving 87% target,87,88,100.0,2026-01-27,Completed
+EMP0005,Engineering,GOAL_EMP0005_4,Performance Improvement,Improve performance improvement by achieving 86% target,86,83,96.51162790697676,2026-01-11,In Progress
+EMP0005,Engineering,GOAL_EMP0005_5,Leadership Development,Improve leadership development by achieving 70% target,70,59,84.28571428571429,2025-12-24,In Progress
+EMP0006,Engineering,GOAL_EMP0006_1,Skill Development,Improve skill development by achieving 90% target,90,55,61.111111111111114,2026-02-16,In Progress
+EMP0006,Engineering,GOAL_EMP0006_2,Skill Development,Improve skill development by achieving 76% target,76,55,72.36842105263158,2025-09-27,In Progress
+EMP0006,Engineering,GOAL_EMP0006_3,Performance Improvement,Improve performance improvement by achieving 72% target,72,77,100.0,2025-11-18,Completed
+EMP0006,Engineering,GOAL_EMP0006_4,Project Completion,Improve project completion by achieving 88% target,88,69,78.4090909090909,2025-11-24,In Progress
+EMP0006,Engineering,GOAL_EMP0006_5,Client Satisfaction,Improve client satisfaction by achieving 83% target,83,87,100.0,2025-12-07,Completed
+EMP0007,HR,GOAL_EMP0007_1,Process Optimization,Improve process optimization by achieving 74% target,74,56,75.67567567567568,2025-12-25,In Progress
+EMP0007,HR,GOAL_EMP0007_2,Leadership Development,Improve leadership development by achieving 74% target,74,61,82.43243243243244,2026-01-09,In Progress
+EMP0007,HR,GOAL_EMP0007_3,Skill Development,Improve skill development by achieving 72% target,72,60,83.33333333333334,2025-10-21,In Progress
+EMP0008,Customer Support,GOAL_EMP0008_1,Leadership Development,Improve leadership development by achieving 83% target,83,56,67.46987951807229,2025-12-09,In Progress
+EMP0008,Customer Support,GOAL_EMP0008_2,Skill Development,Improve skill development by achieving 79% target,79,78,98.73417721518987,2026-01-25,In Progress
+EMP0008,Customer Support,GOAL_EMP0008_3,Project Completion,Improve project completion by achieving 81% target,81,61,75.30864197530865,2026-02-02,In Progress
+EMP0008,Customer Support,GOAL_EMP0008_4,Skill Development,Improve skill development by achieving 76% target,76,71,93.42105263157895,2025-11-08,In Progress
+EMP0008,Customer Support,GOAL_EMP0008_5,Leadership Development,Improve leadership development by achieving 85% target,85,70,82.35294117647058,2025-11-09,In Progress
+EMP0009,Operations,GOAL_EMP0009_1,Performance Improvement,Improve performance improvement by achieving 81% target,81,88,100.0,2026-01-13,Completed
+EMP0009,Operations,GOAL_EMP0009_2,Client Satisfaction,Improve client satisfaction by achieving 72% target,72,64,88.88888888888889,2026-01-17,In Progress
+EMP0009,Operations,GOAL_EMP0009_3,Process Optimization,Improve process optimization by achieving 95% target,95,70,73.68421052631578,2026-01-15,In Progress
+EMP0009,Operations,GOAL_EMP0009_4,Performance Improvement,Improve performance improvement by achieving 73% target,73,55,75.34246575342466,2025-12-27,In Progress
+EMP0009,Operations,GOAL_EMP0009_5,Process Optimization,Improve process optimization by achieving 85% target,85,71,83.52941176470588,2026-01-31,In Progress
+EMP0010,Product Management,GOAL_EMP0010_1,Project Completion,Improve project completion by achieving 84% target,84,76,90.47619047619048,2025-09-26,In Progress
+EMP0010,Product Management,GOAL_EMP0010_2,Project Completion,Improve project completion by achieving 80% target,80,52,65.0,2025-11-10,In Progress
+EMP0010,Product Management,GOAL_EMP0010_3,Leadership Development,Improve leadership development by achieving 73% target,73,80,100.0,2025-12-05,Completed
+EMP0011,HR,GOAL_EMP0011_1,Skill Development,Improve skill development by achieving 91% target,91,69,75.82417582417582,2025-09-23,In Progress
+EMP0011,HR,GOAL_EMP0011_2,Skill Development,Improve skill development by achieving 87% target,87,68,78.16091954022988,2025-10-15,In Progress
+EMP0011,HR,GOAL_EMP0011_3,Project Completion,Improve project completion by achieving 82% target,82,63,76.82926829268293,2025-10-17,In Progress
+EMP0011,HR,GOAL_EMP0011_4,Leadership Development,Improve leadership development by achieving 78% target,78,71,91.02564102564102,2025-11-11,In Progress
+EMP0011,HR,GOAL_EMP0011_5,Project Completion,Improve project completion by achieving 77% target,77,71,92.20779220779221,2025-12-05,In Progress
+EMP0012,Engineering,GOAL_EMP0012_1,Leadership Development,Improve leadership development by achieving 94% target,94,78,82.97872340425532,2026-01-20,In Progress
+EMP0012,Engineering,GOAL_EMP0012_2,Client Satisfaction,Improve client satisfaction by achieving 91% target,91,82,90.10989010989012,2025-11-01,In Progress
+EMP0012,Engineering,GOAL_EMP0012_3,Leadership Development,Improve leadership development by achieving 73% target,73,54,73.97260273972603,2026-02-12,In Progress
+EMP0012,Engineering,GOAL_EMP0012_4,Client Satisfaction,Improve client satisfaction by achieving 75% target,75,70,93.33333333333333,2025-09-23,In Progress
+EMP0013,Engineering,GOAL_EMP0013_1,Leadership Development,Improve leadership development by achieving 76% target,76,82,100.0,2025-10-13,Completed
+EMP0013,Engineering,GOAL_EMP0013_2,Performance Improvement,Improve performance improvement by achieving 95% target,95,65,68.42105263157895,2025-10-09,In Progress
+EMP0013,Engineering,GOAL_EMP0013_3,Process Optimization,Improve process optimization by achieving 87% target,87,73,83.9080459770115,2026-01-30,In Progress
+EMP0013,Engineering,GOAL_EMP0013_4,Project Completion,Improve project completion by achieving 94% target,94,98,100.0,2025-11-06,Completed
+EMP0013,Engineering,GOAL_EMP0013_5,Client Satisfaction,Improve client satisfaction by achieving 87% target,87,86,98.85057471264368,2026-02-04,In Progress
+EMP0014,Finance,GOAL_EMP0014_1,Client Satisfaction,Improve client satisfaction by achieving 70% target,70,72,100.0,2026-01-15,Completed
+EMP0014,Finance,GOAL_EMP0014_2,Project Completion,Improve project completion by achieving 83% target,83,71,85.54216867469879,2025-11-28,In Progress
+EMP0014,Finance,GOAL_EMP0014_3,Process Optimization,Improve process optimization by achieving 82% target,82,63,76.82926829268293,2025-12-19,In Progress
+EMP0014,Finance,GOAL_EMP0014_4,Project Completion,Improve project completion by achieving 71% target,71,74,100.0,2025-11-09,Completed
+EMP0014,Finance,GOAL_EMP0014_5,Project Completion,Improve project completion by achieving 92% target,92,84,91.30434782608695,2026-01-10,In Progress
+EMP0015,Engineering,GOAL_EMP0015_1,Process Optimization,Improve process optimization by achieving 91% target,91,70,76.92307692307693,2025-09-28,In Progress
+EMP0015,Engineering,GOAL_EMP0015_2,Leadership Development,Improve leadership development by achieving 86% target,86,93,100.0,2026-01-09,Completed
+EMP0015,Engineering,GOAL_EMP0015_3,Leadership Development,Improve leadership development by achieving 75% target,75,74,98.66666666666667,2026-01-17,In Progress
+EMP0016,Engineering,GOAL_EMP0016_1,Performance Improvement,Improve performance improvement by achieving 80% target,80,81,100.0,2025-09-26,Completed
+EMP0016,Engineering,GOAL_EMP0016_2,Leadership Development,Improve leadership development by achieving 74% target,74,66,89.1891891891892,2026-02-12,In Progress
+EMP0016,Engineering,GOAL_EMP0016_3,Skill Development,Improve skill development by achieving 72% target,72,52,72.22222222222221,2025-11-01,In Progress
+EMP0016,Engineering,GOAL_EMP0016_4,Skill Development,Improve skill development by achieving 71% target,71,72,100.0,2026-01-16,Completed
+EMP0016,Engineering,GOAL_EMP0016_5,Project Completion,Improve project completion by achieving 74% target,74,60,81.08108108108108,2025-12-28,In Progress
+EMP0017,Sales,GOAL_EMP0017_1,Project Completion,Improve project completion by achieving 78% target,78,81,100.0,2026-01-23,Completed
+EMP0017,Sales,GOAL_EMP0017_2,Leadership Development,Improve leadership development by achieving 73% target,73,52,71.23287671232876,2025-10-01,In Progress
+EMP0017,Sales,GOAL_EMP0017_3,Project Completion,Improve project completion by achieving 87% target,87,52,59.77011494252874,2026-02-15,In Progress
+EMP0017,Sales,GOAL_EMP0017_4,Skill Development,Improve skill development by achieving 89% target,89,69,77.52808988764045,2025-10-14,In Progress
+EMP0017,Sales,GOAL_EMP0017_5,Skill Development,Improve skill development by achieving 70% target,70,69,98.57142857142858,2026-02-16,In Progress
+EMP0018,Customer Support,GOAL_EMP0018_1,Leadership Development,Improve leadership development by achieving 86% target,86,54,62.7906976744186,2025-10-07,In Progress
+EMP0018,Customer Support,GOAL_EMP0018_2,Performance Improvement,Improve performance improvement by achieving 94% target,94,67,71.27659574468085,2025-10-06,In Progress
+EMP0018,Customer Support,GOAL_EMP0018_3,Process Optimization,Improve process optimization by achieving 86% target,86,94,100.0,2025-11-30,Completed
+EMP0018,Customer Support,GOAL_EMP0018_4,Client Satisfaction,Improve client satisfaction by achieving 83% target,83,76,91.56626506024097,2026-02-15,In Progress
+EMP0019,Product Management,GOAL_EMP0019_1,Project Completion,Improve project completion by achieving 92% target,92,62,67.3913043478261,2025-12-27,In Progress
+EMP0019,Product Management,GOAL_EMP0019_2,Client Satisfaction,Improve client satisfaction by achieving 71% target,71,51,71.83098591549296,2026-02-07,In Progress
+EMP0019,Product Management,GOAL_EMP0019_3,Leadership Development,Improve leadership development by achieving 87% target,87,53,60.91954022988506,2025-10-23,In Progress
+EMP0019,Product Management,GOAL_EMP0019_4,Process Optimization,Improve process optimization by achieving 73% target,73,74,100.0,2026-01-30,Completed
+EMP0020,Sales,GOAL_EMP0020_1,Client Satisfaction,Improve client satisfaction by achieving 91% target,91,96,100.0,2025-09-29,Completed
+EMP0020,Sales,GOAL_EMP0020_2,Project Completion,Improve project completion by achieving 76% target,76,75,98.68421052631578,2025-12-20,In Progress
+EMP0020,Sales,GOAL_EMP0020_3,Leadership Development,Improve leadership development by achieving 77% target,77,86,100.0,2025-10-11,Completed
+EMP0020,Sales,GOAL_EMP0020_4,Performance Improvement,Improve performance improvement by achieving 94% target,94,51,54.25531914893617,2026-02-14,In Progress
+EMP0021,Marketing,GOAL_EMP0021_1,Performance Improvement,Improve performance improvement by achieving 83% target,83,82,98.79518072289156,2025-11-16,In Progress
+EMP0021,Marketing,GOAL_EMP0021_2,Client Satisfaction,Improve client satisfaction by achieving 80% target,80,70,87.5,2026-02-15,In Progress
+EMP0021,Marketing,GOAL_EMP0021_3,Performance Improvement,Improve performance improvement by achieving 93% target,93,101,100.0,2025-11-09,Completed
+EMP0021,Marketing,GOAL_EMP0021_4,Client Satisfaction,Improve client satisfaction by achieving 70% target,70,57,81.42857142857143,2025-09-30,In Progress
+EMP0022,Sales,GOAL_EMP0022_1,Client Satisfaction,Improve client satisfaction by achieving 88% target,88,65,73.86363636363636,2026-01-17,In Progress
+EMP0022,Sales,GOAL_EMP0022_2,Leadership Development,Improve leadership development by achieving 92% target,92,91,98.91304347826086,2025-12-26,In Progress
+EMP0022,Sales,GOAL_EMP0022_3,Leadership Development,Improve leadership development by achieving 80% target,80,86,100.0,2026-02-14,Completed
+EMP0022,Sales,GOAL_EMP0022_4,Process Optimization,Improve process optimization by achieving 70% target,70,70,100.0,2025-12-15,Completed
+EMP0023,Engineering,GOAL_EMP0023_1,Process Optimization,Improve process optimization by achieving 74% target,74,53,71.62162162162163,2025-11-14,In Progress
+EMP0023,Engineering,GOAL_EMP0023_2,Process Optimization,Improve process optimization by achieving 92% target,92,74,80.43478260869566,2025-12-10,In Progress
+EMP0023,Engineering,GOAL_EMP0023_3,Leadership Development,Improve leadership development by achieving 95% target,95,98,100.0,2025-11-09,Completed
+EMP0024,HR,GOAL_EMP0024_1,Client Satisfaction,Improve client satisfaction by achieving 72% target,72,72,100.0,2026-01-07,Completed
+EMP0024,HR,GOAL_EMP0024_2,Project Completion,Improve project completion by achieving 79% target,79,78,98.73417721518987,2025-12-21,In Progress
+EMP0024,HR,GOAL_EMP0024_3,Leadership Development,Improve leadership development by achieving 74% target,74,81,100.0,2025-11-02,Completed
+EMP0024,HR,GOAL_EMP0024_4,Process Optimization,Improve process optimization by achieving 76% target,76,64,84.21052631578947,2025-09-21,In Progress
+EMP0025,HR,GOAL_EMP0025_1,Skill Development,Improve skill development by achieving 92% target,92,63,68.47826086956522,2025-12-24,In Progress
+EMP0025,HR,GOAL_EMP0025_2,Skill Development,Improve skill development by achieving 81% target,81,57,70.37037037037037,2026-01-07,In Progress
+EMP0025,HR,GOAL_EMP0025_3,Leadership Development,Improve leadership development by achieving 80% target,80,71,88.75,2025-11-01,In Progress
+EMP0026,Operations,GOAL_EMP0026_1,Project Completion,Improve project completion by achieving 93% target,93,53,56.98924731182796,2025-10-02,In Progress
+EMP0026,Operations,GOAL_EMP0026_2,Leadership Development,Improve leadership development by achieving 75% target,75,79,100.0,2025-11-29,Completed
+EMP0026,Operations,GOAL_EMP0026_3,Client Satisfaction,Improve client satisfaction by achieving 71% target,71,53,74.64788732394366,2025-11-21,In Progress
+EMP0026,Operations,GOAL_EMP0026_4,Process Optimization,Improve process optimization by achieving 73% target,73,65,89.04109589041096,2025-12-11,In Progress
+EMP0026,Operations,GOAL_EMP0026_5,Process Optimization,Improve process optimization by achieving 89% target,89,89,100.0,2026-02-13,Completed
+EMP0027,Operations,GOAL_EMP0027_1,Leadership Development,Improve leadership development by achieving 94% target,94,83,88.29787234042553,2025-12-10,In Progress
+EMP0027,Operations,GOAL_EMP0027_2,Project Completion,Improve project completion by achieving 94% target,94,82,87.2340425531915,2025-11-09,In Progress
+EMP0027,Operations,GOAL_EMP0027_3,Skill Development,Improve skill development by achieving 86% target,86,74,86.04651162790698,2025-11-10,In Progress
+EMP0027,Operations,GOAL_EMP0027_4,Process Optimization,Improve process optimization by achieving 70% target,70,56,80.0,2026-01-02,In Progress
+EMP0027,Operations,GOAL_EMP0027_5,Project Completion,Improve project completion by achieving 88% target,88,90,100.0,2025-12-28,Completed
+EMP0028,Marketing,GOAL_EMP0028_1,Performance Improvement,Improve performance improvement by achieving 89% target,89,57,64.04494382022472,2025-11-01,In Progress
+EMP0028,Marketing,GOAL_EMP0028_2,Client Satisfaction,Improve client satisfaction by achieving 88% target,88,89,100.0,2026-01-19,Completed
+EMP0028,Marketing,GOAL_EMP0028_3,Client Satisfaction,Improve client satisfaction by achieving 77% target,77,57,74.02597402597402,2025-11-14,In Progress
+EMP0028,Marketing,GOAL_EMP0028_4,Leadership Development,Improve leadership development by achieving 74% target,74,83,100.0,2025-12-24,Completed
+EMP0029,Product Management,GOAL_EMP0029_1,Project Completion,Improve project completion by achieving 79% target,79,79,100.0,2025-12-14,Completed
+EMP0029,Product Management,GOAL_EMP0029_2,Leadership Development,Improve leadership development by achieving 78% target,78,71,91.02564102564102,2025-11-22,In Progress
+EMP0029,Product Management,GOAL_EMP0029_3,Project Completion,Improve project completion by achieving 72% target,72,54,75.0,2026-01-14,In Progress
+EMP0029,Product Management,GOAL_EMP0029_4,Leadership Development,Improve leadership development by achieving 79% target,79,71,89.87341772151899,2025-09-26,In Progress
+EMP0029,Product Management,GOAL_EMP0029_5,Performance Improvement,Improve performance improvement by achieving 82% target,82,79,96.34146341463415,2026-02-02,In Progress
+EMP0030,Finance,GOAL_EMP0030_1,Project Completion,Improve project completion by achieving 74% target,74,65,87.83783783783784,2026-01-10,In Progress
+EMP0030,Finance,GOAL_EMP0030_2,Performance Improvement,Improve performance improvement by achieving 73% target,73,81,100.0,2025-09-29,Completed
+EMP0030,Finance,GOAL_EMP0030_3,Leadership Development,Improve leadership development by achieving 80% target,80,82,100.0,2025-11-06,Completed
+EMP0031,Product Management,GOAL_EMP0031_1,Leadership Development,Improve leadership development by achieving 73% target,73,72,98.63013698630137,2026-02-11,In Progress
+EMP0031,Product Management,GOAL_EMP0031_2,Performance Improvement,Improve performance improvement by achieving 70% target,70,50,71.42857142857143,2025-11-08,In Progress
+EMP0031,Product Management,GOAL_EMP0031_3,Project Completion,Improve project completion by achieving 86% target,86,66,76.74418604651163,2025-10-02,In Progress
+EMP0031,Product Management,GOAL_EMP0031_4,Client Satisfaction,Improve client satisfaction by achieving 78% target,78,68,87.17948717948718,2025-12-03,In Progress
+EMP0032,Marketing,GOAL_EMP0032_1,Process Optimization,Improve process optimization by achieving 89% target,89,89,100.0,2026-01-10,Completed
+EMP0032,Marketing,GOAL_EMP0032_2,Performance Improvement,Improve performance improvement by achieving 81% target,81,81,100.0,2025-11-04,Completed
+EMP0032,Marketing,GOAL_EMP0032_3,Leadership Development,Improve leadership development by achieving 82% target,82,50,60.97560975609756,2026-02-01,In Progress
+EMP0032,Marketing,GOAL_EMP0032_4,Performance Improvement,Improve performance improvement by achieving 89% target,89,98,100.0,2025-12-20,Completed
+EMP0032,Marketing,GOAL_EMP0032_5,Performance Improvement,Improve performance improvement by achieving 82% target,82,50,60.97560975609756,2025-12-29,In Progress
+EMP0033,Engineering,GOAL_EMP0033_1,Project Completion,Improve project completion by achieving 70% target,70,75,100.0,2025-11-08,Completed
+EMP0033,Engineering,GOAL_EMP0033_2,Skill Development,Improve skill development by achieving 80% target,80,54,67.5,2026-01-31,In Progress
+EMP0033,Engineering,GOAL_EMP0033_3,Process Optimization,Improve process optimization by achieving 77% target,77,68,88.31168831168831,2025-12-22,In Progress
+EMP0033,Engineering,GOAL_EMP0033_4,Client Satisfaction,Improve client satisfaction by achieving 74% target,74,83,100.0,2026-01-28,Completed
+EMP0033,Engineering,GOAL_EMP0033_5,Project Completion,Improve project completion by achieving 74% target,74,56,75.67567567567568,2025-11-02,In Progress
+EMP0034,HR,GOAL_EMP0034_1,Project Completion,Improve project completion by achieving 95% target,95,98,100.0,2025-12-01,Completed
+EMP0034,HR,GOAL_EMP0034_2,Leadership Development,Improve leadership development by achieving 74% target,74,84,100.0,2025-11-03,Completed
+EMP0034,HR,GOAL_EMP0034_3,Project Completion,Improve project completion by achieving 80% target,80,84,100.0,2025-12-18,Completed
+EMP0034,HR,GOAL_EMP0034_4,Performance Improvement,Improve performance improvement by achieving 80% target,80,59,73.75,2025-11-13,In Progress
+EMP0035,Operations,GOAL_EMP0035_1,Performance Improvement,Improve performance improvement by achieving 76% target,76,72,94.73684210526315,2025-09-30,In Progress
+EMP0035,Operations,GOAL_EMP0035_2,Client Satisfaction,Improve client satisfaction by achieving 80% target,80,77,96.25,2026-02-13,In Progress
+EMP0035,Operations,GOAL_EMP0035_3,Process Optimization,Improve process optimization by achieving 91% target,91,64,70.32967032967034,2025-10-08,In Progress
+EMP0035,Operations,GOAL_EMP0035_4,Project Completion,Improve project completion by achieving 81% target,81,61,75.30864197530865,2025-09-25,In Progress
+EMP0035,Operations,GOAL_EMP0035_5,Project Completion,Improve project completion by achieving 79% target,79,74,93.67088607594937,2025-11-15,In Progress
+EMP0036,Product Management,GOAL_EMP0036_1,Leadership Development,Improve leadership development by achieving 86% target,86,69,80.23255813953489,2026-02-02,In Progress
+EMP0036,Product Management,GOAL_EMP0036_2,Project Completion,Improve project completion by achieving 72% target,72,61,84.72222222222221,2026-01-09,In Progress
+EMP0036,Product Management,GOAL_EMP0036_3,Process Optimization,Improve process optimization by achieving 91% target,91,54,59.34065934065934,2025-11-18,In Progress
+EMP0037,Customer Support,GOAL_EMP0037_1,Client Satisfaction,Improve client satisfaction by achieving 81% target,81,73,90.12345679012346,2025-09-25,In Progress
+EMP0037,Customer Support,GOAL_EMP0037_2,Project Completion,Improve project completion by achieving 70% target,70,57,81.42857142857143,2025-10-19,In Progress
+EMP0037,Customer Support,GOAL_EMP0037_3,Leadership Development,Improve leadership development by achieving 82% target,82,62,75.60975609756098,2026-01-06,In Progress
+EMP0037,Customer Support,GOAL_EMP0037_4,Skill Development,Improve skill development by achieving 90% target,90,74,82.22222222222221,2025-10-14,In Progress
+EMP0037,Customer Support,GOAL_EMP0037_5,Project Completion,Improve project completion by achieving 83% target,83,60,72.28915662650603,2025-09-29,In Progress
+EMP0038,Product Management,GOAL_EMP0038_1,Project Completion,Improve project completion by achieving 71% target,71,62,87.32394366197182,2026-01-01,In Progress
+EMP0038,Product Management,GOAL_EMP0038_2,Leadership Development,Improve leadership development by achieving 80% target,80,73,91.25,2026-02-02,In Progress
+EMP0038,Product Management,GOAL_EMP0038_3,Leadership Development,Improve leadership development by achieving 91% target,91,62,68.13186813186813,2025-11-11,In Progress
+EMP0038,Product Management,GOAL_EMP0038_4,Leadership Development,Improve leadership development by achieving 80% target,80,88,100.0,2025-10-06,Completed
+EMP0039,Engineering,GOAL_EMP0039_1,Client Satisfaction,Improve client satisfaction by achieving 81% target,81,62,76.5432098765432,2025-11-03,In Progress
+EMP0039,Engineering,GOAL_EMP0039_2,Leadership Development,Improve leadership development by achieving 83% target,83,61,73.49397590361446,2025-12-04,In Progress
+EMP0039,Engineering,GOAL_EMP0039_3,Project Completion,Improve project completion by achieving 83% target,83,57,68.67469879518072,2026-02-15,In Progress
+EMP0039,Engineering,GOAL_EMP0039_4,Project Completion,Improve project completion by achieving 89% target,89,67,75.28089887640449,2025-10-15,In Progress
+EMP0039,Engineering,GOAL_EMP0039_5,Client Satisfaction,Improve client satisfaction by achieving 72% target,72,81,100.0,2025-11-23,Completed
+EMP0040,Customer Support,GOAL_EMP0040_1,Performance Improvement,Improve performance improvement by achieving 92% target,92,70,76.08695652173914,2025-12-24,In Progress
+EMP0040,Customer Support,GOAL_EMP0040_2,Performance Improvement,Improve performance improvement by achieving 92% target,92,79,85.86956521739131,2025-11-18,In Progress
+EMP0040,Customer Support,GOAL_EMP0040_3,Project Completion,Improve project completion by achieving 93% target,93,63,67.74193548387096,2026-01-03,In Progress
+EMP0040,Customer Support,GOAL_EMP0040_4,Process Optimization,Improve process optimization by achieving 70% target,70,72,100.0,2025-09-29,Completed
+EMP0041,HR,GOAL_EMP0041_1,Performance Improvement,Improve performance improvement by achieving 84% target,84,56,66.66666666666666,2025-12-14,In Progress
+EMP0041,HR,GOAL_EMP0041_2,Skill Development,Improve skill development by achieving 82% target,82,65,79.26829268292683,2026-02-15,In Progress
+EMP0041,HR,GOAL_EMP0041_3,Skill Development,Improve skill development by achieving 79% target,79,71,89.87341772151899,2025-10-29,In Progress
+EMP0042,Product Management,GOAL_EMP0042_1,Process Optimization,Improve process optimization by achieving 74% target,74,58,78.37837837837837,2025-12-02,In Progress
+EMP0042,Product Management,GOAL_EMP0042_2,Process Optimization,Improve process optimization by achieving 87% target,87,80,91.95402298850574,2025-12-14,In Progress
+EMP0042,Product Management,GOAL_EMP0042_3,Skill Development,Improve skill development by achieving 83% target,83,52,62.65060240963856,2025-12-12,In Progress
+EMP0043,Product Management,GOAL_EMP0043_1,Leadership Development,Improve leadership development by achieving 70% target,70,75,100.0,2025-12-02,Completed
+EMP0043,Product Management,GOAL_EMP0043_2,Process Optimization,Improve process optimization by achieving 73% target,73,70,95.8904109589041,2026-01-29,In Progress
+EMP0043,Product Management,GOAL_EMP0043_3,Skill Development,Improve skill development by achieving 87% target,87,94,100.0,2025-11-01,Completed
+EMP0043,Product Management,GOAL_EMP0043_4,Project Completion,Improve project completion by achieving 89% target,89,86,96.62921348314607,2026-01-05,In Progress
+EMP0044,Operations,GOAL_EMP0044_1,Client Satisfaction,Improve client satisfaction by achieving 78% target,78,83,100.0,2025-12-02,Completed
+EMP0044,Operations,GOAL_EMP0044_2,Skill Development,Improve skill development by achieving 73% target,73,78,100.0,2025-11-02,Completed
+EMP0044,Operations,GOAL_EMP0044_3,Performance Improvement,Improve performance improvement by achieving 92% target,92,102,100.0,2026-01-19,Completed
+EMP0044,Operations,GOAL_EMP0044_4,Skill Development,Improve skill development by achieving 72% target,72,58,80.55555555555556,2025-12-28,In Progress
+EMP0044,Operations,GOAL_EMP0044_5,Leadership Development,Improve leadership development by achieving 76% target,76,75,98.68421052631578,2025-09-25,In Progress
+EMP0045,Engineering,GOAL_EMP0045_1,Process Optimization,Improve process optimization by achieving 78% target,78,77,98.71794871794873,2025-10-08,In Progress
+EMP0045,Engineering,GOAL_EMP0045_2,Client Satisfaction,Improve client satisfaction by achieving 80% target,80,86,100.0,2025-09-22,Completed
+EMP0045,Engineering,GOAL_EMP0045_3,Process Optimization,Improve process optimization by achieving 76% target,76,75,98.68421052631578,2026-01-29,In Progress
+EMP0045,Engineering,GOAL_EMP0045_4,Skill Development,Improve skill development by achieving 70% target,70,61,87.14285714285714,2026-02-13,In Progress
+EMP0045,Engineering,GOAL_EMP0045_5,Client Satisfaction,Improve client satisfaction by achieving 92% target,92,56,60.86956521739131,2026-01-14,In Progress
+EMP0046,Finance,GOAL_EMP0046_1,Client Satisfaction,Improve client satisfaction by achieving 73% target,73,51,69.86301369863014,2025-11-13,In Progress
+EMP0046,Finance,GOAL_EMP0046_2,Process Optimization,Improve process optimization by achieving 95% target,95,99,100.0,2025-12-22,Completed
+EMP0046,Finance,GOAL_EMP0046_3,Skill Development,Improve skill development by achieving 72% target,72,77,100.0,2026-01-26,Completed
+EMP0046,Finance,GOAL_EMP0046_4,Process Optimization,Improve process optimization by achieving 90% target,90,85,94.44444444444444,2025-12-10,In Progress
+EMP0047,Marketing,GOAL_EMP0047_1,Skill Development,Improve skill development by achieving 95% target,95,57,60.0,2025-11-07,In Progress
+EMP0047,Marketing,GOAL_EMP0047_2,Skill Development,Improve skill development by achieving 79% target,79,73,92.40506329113924,2025-09-24,In Progress
+EMP0047,Marketing,GOAL_EMP0047_3,Performance Improvement,Improve performance improvement by achieving 75% target,75,61,81.33333333333333,2025-10-21,In Progress
+EMP0048,Product Management,GOAL_EMP0048_1,Leadership Development,Improve leadership development by achieving 81% target,81,55,67.90123456790124,2026-02-02,In Progress
+EMP0048,Product Management,GOAL_EMP0048_2,Client Satisfaction,Improve client satisfaction by achieving 79% target,79,66,83.54430379746836,2026-01-27,In Progress
+EMP0048,Product Management,GOAL_EMP0048_3,Client Satisfaction,Improve client satisfaction by achieving 71% target,71,71,100.0,2026-02-02,Completed
+EMP0049,Engineering,GOAL_EMP0049_1,Performance Improvement,Improve performance improvement by achieving 86% target,86,56,65.11627906976744,2026-01-02,In Progress
+EMP0049,Engineering,GOAL_EMP0049_2,Leadership Development,Improve leadership development by achieving 71% target,71,69,97.1830985915493,2026-01-30,In Progress
+EMP0049,Engineering,GOAL_EMP0049_3,Leadership Development,Improve leadership development by achieving 74% target,74,55,74.32432432432432,2025-09-26,In Progress
+EMP0050,Marketing,GOAL_EMP0050_1,Leadership Development,Improve leadership development by achieving 84% target,84,87,100.0,2026-01-05,Completed
+EMP0050,Marketing,GOAL_EMP0050_2,Client Satisfaction,Improve client satisfaction by achieving 84% target,84,55,65.47619047619048,2025-10-01,In Progress
+EMP0050,Marketing,GOAL_EMP0050_3,Client Satisfaction,Improve client satisfaction by achieving 70% target,70,50,71.42857142857143,2025-10-12,In Progress
+EMP0050,Marketing,GOAL_EMP0050_4,Project Completion,Improve project completion by achieving 79% target,79,80,100.0,2026-01-15,Completed
+EMP0051,Finance,GOAL_EMP0051_1,Process Optimization,Improve process optimization by achieving 87% target,87,61,70.11494252873564,2025-10-08,In Progress
+EMP0051,Finance,GOAL_EMP0051_2,Project Completion,Improve project completion by achieving 87% target,87,60,68.96551724137932,2025-10-01,In Progress
+EMP0051,Finance,GOAL_EMP0051_3,Leadership Development,Improve leadership development by achieving 88% target,88,96,100.0,2025-12-27,Completed
+EMP0051,Finance,GOAL_EMP0051_4,Project Completion,Improve project completion by achieving 87% target,87,61,70.11494252873564,2025-10-24,In Progress
+EMP0051,Finance,GOAL_EMP0051_5,Project Completion,Improve project completion by achieving 84% target,84,85,100.0,2026-01-01,Completed
+EMP0052,Marketing,GOAL_EMP0052_1,Performance Improvement,Improve performance improvement by achieving 95% target,95,95,100.0,2025-10-24,Completed
+EMP0052,Marketing,GOAL_EMP0052_2,Skill Development,Improve skill development by achieving 81% target,81,83,100.0,2025-11-07,Completed
+EMP0052,Marketing,GOAL_EMP0052_3,Client Satisfaction,Improve client satisfaction by achieving 83% target,83,74,89.1566265060241,2025-10-08,In Progress
+EMP0052,Marketing,GOAL_EMP0052_4,Leadership Development,Improve leadership development by achieving 84% target,84,89,100.0,2025-12-04,Completed
+EMP0052,Marketing,GOAL_EMP0052_5,Process Optimization,Improve process optimization by achieving 74% target,74,83,100.0,2025-09-27,Completed
+EMP0053,Finance,GOAL_EMP0053_1,Process Optimization,Improve process optimization by achieving 78% target,78,76,97.43589743589743,2025-10-10,In Progress
+EMP0053,Finance,GOAL_EMP0053_2,Performance Improvement,Improve performance improvement by achieving 77% target,77,71,92.20779220779221,2025-12-09,In Progress
+EMP0053,Finance,GOAL_EMP0053_3,Performance Improvement,Improve performance improvement by achieving 72% target,72,50,69.44444444444444,2026-01-21,In Progress
+EMP0054,Customer Support,GOAL_EMP0054_1,Client Satisfaction,Improve client satisfaction by achieving 86% target,86,73,84.88372093023256,2026-01-31,In Progress
+EMP0054,Customer Support,GOAL_EMP0054_2,Skill Development,Improve skill development by achieving 90% target,90,52,57.77777777777777,2025-11-18,In Progress
+EMP0054,Customer Support,GOAL_EMP0054_3,Skill Development,Improve skill development by achieving 88% target,88,98,100.0,2025-12-12,Completed
+EMP0054,Customer Support,GOAL_EMP0054_4,Skill Development,Improve skill development by achieving 77% target,77,82,100.0,2026-01-21,Completed
+EMP0055,HR,GOAL_EMP0055_1,Project Completion,Improve project completion by achieving 70% target,70,78,100.0,2026-01-01,Completed
+EMP0055,HR,GOAL_EMP0055_2,Skill Development,Improve skill development by achieving 90% target,90,91,100.0,2025-09-25,Completed
+EMP0055,HR,GOAL_EMP0055_3,Skill Development,Improve skill development by achieving 78% target,78,73,93.58974358974359,2025-12-19,In Progress
+EMP0056,Product Management,GOAL_EMP0056_1,Client Satisfaction,Improve client satisfaction by achieving 73% target,73,80,100.0,2025-10-09,Completed
+EMP0056,Product Management,GOAL_EMP0056_2,Leadership Development,Improve leadership development by achieving 73% target,73,60,82.1917808219178,2025-09-21,In Progress
+EMP0056,Product Management,GOAL_EMP0056_3,Process Optimization,Improve process optimization by achieving 78% target,78,81,100.0,2025-10-26,Completed
+EMP0057,Engineering,GOAL_EMP0057_1,Client Satisfaction,Improve client satisfaction by achieving 81% target,81,56,69.1358024691358,2026-01-24,In Progress
+EMP0057,Engineering,GOAL_EMP0057_2,Performance Improvement,Improve performance improvement by achieving 85% target,85,86,100.0,2025-10-31,Completed
+EMP0057,Engineering,GOAL_EMP0057_3,Process Optimization,Improve process optimization by achieving 90% target,90,87,96.66666666666667,2026-02-12,In Progress
+EMP0057,Engineering,GOAL_EMP0057_4,Client Satisfaction,Improve client satisfaction by achieving 74% target,74,69,93.24324324324324,2025-12-05,In Progress
+EMP0058,Sales,GOAL_EMP0058_1,Process Optimization,Improve process optimization by achieving 79% target,79,80,100.0,2025-12-22,Completed
+EMP0058,Sales,GOAL_EMP0058_2,Process Optimization,Improve process optimization by achieving 87% target,87,60,68.96551724137932,2026-02-05,In Progress
+EMP0058,Sales,GOAL_EMP0058_3,Project Completion,Improve project completion by achieving 77% target,77,77,100.0,2026-02-07,Completed
+EMP0058,Sales,GOAL_EMP0058_4,Performance Improvement,Improve performance improvement by achieving 76% target,76,51,67.10526315789474,2025-10-04,In Progress
+EMP0059,Customer Support,GOAL_EMP0059_1,Process Optimization,Improve process optimization by achieving 95% target,95,85,89.47368421052632,2025-11-27,In Progress
+EMP0059,Customer Support,GOAL_EMP0059_2,Process Optimization,Improve process optimization by achieving 95% target,95,85,89.47368421052632,2025-10-15,In Progress
+EMP0059,Customer Support,GOAL_EMP0059_3,Skill Development,Improve skill development by achieving 73% target,73,66,90.41095890410958,2025-11-20,In Progress
+EMP0059,Customer Support,GOAL_EMP0059_4,Leadership Development,Improve leadership development by achieving 77% target,77,72,93.5064935064935,2025-11-17,In Progress
+EMP0059,Customer Support,GOAL_EMP0059_5,Process Optimization,Improve process optimization by achieving 79% target,79,66,83.54430379746836,2025-12-19,In Progress
+EMP0060,Marketing,GOAL_EMP0060_1,Skill Development,Improve skill development by achieving 86% target,86,62,72.09302325581395,2025-11-20,In Progress
+EMP0060,Marketing,GOAL_EMP0060_2,Client Satisfaction,Improve client satisfaction by achieving 87% target,87,73,83.9080459770115,2025-10-09,In Progress
+EMP0060,Marketing,GOAL_EMP0060_3,Skill Development,Improve skill development by achieving 81% target,81,90,100.0,2026-01-20,Completed
+EMP0060,Marketing,GOAL_EMP0060_4,Process Optimization,Improve process optimization by achieving 72% target,72,55,76.38888888888889,2025-11-11,In Progress
+EMP0060,Marketing,GOAL_EMP0060_5,Skill Development,Improve skill development by achieving 77% target,77,78,100.0,2025-11-20,Completed
+EMP0061,Marketing,GOAL_EMP0061_1,Performance Improvement,Improve performance improvement by achieving 76% target,76,85,100.0,2025-10-21,Completed
+EMP0061,Marketing,GOAL_EMP0061_2,Skill Development,Improve skill development by achieving 87% target,87,88,100.0,2026-01-26,Completed
+EMP0061,Marketing,GOAL_EMP0061_3,Client Satisfaction,Improve client satisfaction by achieving 84% target,84,61,72.61904761904762,2025-10-26,In Progress
+EMP0061,Marketing,GOAL_EMP0061_4,Project Completion,Improve project completion by achieving 88% target,88,50,56.81818181818182,2025-10-30,In Progress
+EMP0061,Marketing,GOAL_EMP0061_5,Project Completion,Improve project completion by achieving 86% target,86,73,84.88372093023256,2025-11-23,In Progress
+EMP0062,Product Management,GOAL_EMP0062_1,Leadership Development,Improve leadership development by achieving 94% target,94,95,100.0,2025-10-19,Completed
+EMP0062,Product Management,GOAL_EMP0062_2,Leadership Development,Improve leadership development by achieving 72% target,72,52,72.22222222222221,2026-02-18,In Progress
+EMP0062,Product Management,GOAL_EMP0062_3,Project Completion,Improve project completion by achieving 75% target,75,52,69.33333333333334,2026-02-17,In Progress
+EMP0062,Product Management,GOAL_EMP0062_4,Client Satisfaction,Improve client satisfaction by achieving 88% target,88,89,100.0,2026-01-11,Completed
+EMP0063,HR,GOAL_EMP0063_1,Project Completion,Improve project completion by achieving 82% target,82,75,91.46341463414635,2026-01-01,In Progress
+EMP0063,HR,GOAL_EMP0063_2,Process Optimization,Improve process optimization by achieving 95% target,95,71,74.73684210526315,2026-01-21,In Progress
+EMP0063,HR,GOAL_EMP0063_3,Client Satisfaction,Improve client satisfaction by achieving 77% target,77,83,100.0,2026-01-05,Completed
+EMP0064,Product Management,GOAL_EMP0064_1,Leadership Development,Improve leadership development by achieving 84% target,84,60,71.42857142857143,2025-11-28,In Progress
+EMP0064,Product Management,GOAL_EMP0064_2,Process Optimization,Improve process optimization by achieving 80% target,80,64,80.0,2025-11-14,In Progress
+EMP0064,Product Management,GOAL_EMP0064_3,Skill Development,Improve skill development by achieving 89% target,89,57,64.04494382022472,2025-12-21,In Progress
+EMP0065,Product Management,GOAL_EMP0065_1,Skill Development,Improve skill development by achieving 84% target,84,64,76.19047619047619,2025-11-18,In Progress
+EMP0065,Product Management,GOAL_EMP0065_2,Skill Development,Improve skill development by achieving 89% target,89,79,88.76404494382022,2025-10-03,In Progress
+EMP0065,Product Management,GOAL_EMP0065_3,Client Satisfaction,Improve client satisfaction by achieving 77% target,77,53,68.83116883116884,2025-11-27,In Progress
+EMP0065,Product Management,GOAL_EMP0065_4,Project Completion,Improve project completion by achieving 71% target,71,54,76.05633802816901,2025-09-21,In Progress
+EMP0065,Product Management,GOAL_EMP0065_5,Skill Development,Improve skill development by achieving 74% target,74,66,89.1891891891892,2026-02-07,In Progress
+EMP0066,HR,GOAL_EMP0066_1,Skill Development,Improve skill development by achieving 95% target,95,84,88.42105263157895,2025-10-25,In Progress
+EMP0066,HR,GOAL_EMP0066_2,Performance Improvement,Improve performance improvement by achieving 75% target,75,70,93.33333333333333,2026-01-22,In Progress
+EMP0066,HR,GOAL_EMP0066_3,Client Satisfaction,Improve client satisfaction by achieving 85% target,85,73,85.88235294117646,2026-01-21,In Progress
+EMP0066,HR,GOAL_EMP0066_4,Project Completion,Improve project completion by achieving 87% target,87,78,89.65517241379311,2026-02-07,In Progress
+EMP0067,Finance,GOAL_EMP0067_1,Process Optimization,Improve process optimization by achieving 86% target,86,83,96.51162790697676,2025-11-22,In Progress
+EMP0067,Finance,GOAL_EMP0067_2,Leadership Development,Improve leadership development by achieving 93% target,93,66,70.96774193548387,2025-11-19,In Progress
+EMP0067,Finance,GOAL_EMP0067_3,Client Satisfaction,Improve client satisfaction by achieving 74% target,74,61,82.43243243243244,2026-02-01,In Progress
+EMP0067,Finance,GOAL_EMP0067_4,Project Completion,Improve project completion by achieving 88% target,88,94,100.0,2025-10-18,Completed
+EMP0067,Finance,GOAL_EMP0067_5,Process Optimization,Improve process optimization by achieving 95% target,95,67,70.52631578947368,2025-10-13,In Progress
+EMP0068,Finance,GOAL_EMP0068_1,Process Optimization,Improve process optimization by achieving 73% target,73,83,100.0,2026-01-04,Completed
+EMP0068,Finance,GOAL_EMP0068_2,Skill Development,Improve skill development by achieving 88% target,88,85,96.5909090909091,2025-10-25,In Progress
+EMP0068,Finance,GOAL_EMP0068_3,Client Satisfaction,Improve client satisfaction by achieving 91% target,91,92,100.0,2026-01-18,Completed
+EMP0068,Finance,GOAL_EMP0068_4,Skill Development,Improve skill development by achieving 95% target,95,80,84.21052631578947,2026-01-31,In Progress
+EMP0068,Finance,GOAL_EMP0068_5,Client Satisfaction,Improve client satisfaction by achieving 77% target,77,70,90.9090909090909,2025-09-26,In Progress
+EMP0069,Engineering,GOAL_EMP0069_1,Project Completion,Improve project completion by achieving 81% target,81,83,100.0,2026-01-20,Completed
+EMP0069,Engineering,GOAL_EMP0069_2,Process Optimization,Improve process optimization by achieving 84% target,84,85,100.0,2025-11-24,Completed
+EMP0069,Engineering,GOAL_EMP0069_3,Client Satisfaction,Improve client satisfaction by achieving 85% target,85,88,100.0,2025-12-16,Completed
+EMP0070,Finance,GOAL_EMP0070_1,Leadership Development,Improve leadership development by achieving 89% target,89,78,87.64044943820225,2026-01-09,In Progress
+EMP0070,Finance,GOAL_EMP0070_2,Skill Development,Improve skill development by achieving 79% target,79,84,100.0,2026-01-16,Completed
+EMP0070,Finance,GOAL_EMP0070_3,Project Completion,Improve project completion by achieving 86% target,86,54,62.7906976744186,2025-09-30,In Progress
+EMP0070,Finance,GOAL_EMP0070_4,Performance Improvement,Improve performance improvement by achieving 88% target,88,56,63.63636363636363,2025-10-14,In Progress
+EMP0070,Finance,GOAL_EMP0070_5,Client Satisfaction,Improve client satisfaction by achieving 75% target,75,56,74.66666666666667,2025-12-22,In Progress
+EMP0071,Customer Support,GOAL_EMP0071_1,Leadership Development,Improve leadership development by achieving 74% target,74,69,93.24324324324324,2025-10-21,In Progress
+EMP0071,Customer Support,GOAL_EMP0071_2,Process Optimization,Improve process optimization by achieving 94% target,94,77,81.91489361702128,2025-10-16,In Progress
+EMP0071,Customer Support,GOAL_EMP0071_3,Client Satisfaction,Improve client satisfaction by achieving 84% target,84,87,100.0,2026-02-12,Completed
+EMP0071,Customer Support,GOAL_EMP0071_4,Performance Improvement,Improve performance improvement by achieving 78% target,78,56,71.7948717948718,2026-02-12,In Progress
+EMP0072,HR,GOAL_EMP0072_1,Client Satisfaction,Improve client satisfaction by achieving 91% target,91,51,56.043956043956044,2026-02-16,In Progress
+EMP0072,HR,GOAL_EMP0072_2,Performance Improvement,Improve performance improvement by achieving 84% target,84,63,75.0,2025-11-09,In Progress
+EMP0072,HR,GOAL_EMP0072_3,Skill Development,Improve skill development by achieving 89% target,89,80,89.8876404494382,2025-10-11,In Progress
+EMP0072,HR,GOAL_EMP0072_4,Project Completion,Improve project completion by achieving 95% target,95,50,52.63157894736842,2025-10-21,In Progress
+EMP0073,Operations,GOAL_EMP0073_1,Process Optimization,Improve process optimization by achieving 83% target,83,81,97.59036144578313,2026-01-12,In Progress
+EMP0073,Operations,GOAL_EMP0073_2,Skill Development,Improve skill development by achieving 70% target,70,51,72.85714285714285,2025-11-23,In Progress
+EMP0073,Operations,GOAL_EMP0073_3,Performance Improvement,Improve performance improvement by achieving 82% target,82,90,100.0,2025-12-19,Completed
+EMP0073,Operations,GOAL_EMP0073_4,Leadership Development,Improve leadership development by achieving 82% target,82,53,64.63414634146342,2025-11-08,In Progress
+EMP0073,Operations,GOAL_EMP0073_5,Performance Improvement,Improve performance improvement by achieving 74% target,74,71,95.94594594594594,2025-11-20,In Progress
+EMP0074,Operations,GOAL_EMP0074_1,Client Satisfaction,Improve client satisfaction by achieving 75% target,75,54,72.0,2025-11-07,In Progress
+EMP0074,Operations,GOAL_EMP0074_2,Leadership Development,Improve leadership development by achieving 73% target,73,58,79.45205479452055,2025-09-30,In Progress
+EMP0074,Operations,GOAL_EMP0074_3,Client Satisfaction,Improve client satisfaction by achieving 87% target,87,89,100.0,2026-01-11,Completed
+EMP0074,Operations,GOAL_EMP0074_4,Skill Development,Improve skill development by achieving 94% target,94,79,84.04255319148936,2025-12-23,In Progress
+EMP0074,Operations,GOAL_EMP0074_5,Performance Improvement,Improve performance improvement by achieving 81% target,81,87,100.0,2025-12-30,Completed
+EMP0075,Customer Support,GOAL_EMP0075_1,Process Optimization,Improve process optimization by achieving 72% target,72,62,86.11111111111111,2025-12-02,In Progress
+EMP0075,Customer Support,GOAL_EMP0075_2,Skill Development,Improve skill development by achieving 79% target,79,88,100.0,2025-12-11,Completed
+EMP0075,Customer Support,GOAL_EMP0075_3,Client Satisfaction,Improve client satisfaction by achieving 89% target,89,53,59.55056179775281,2026-01-18,In Progress
+EMP0076,Engineering,GOAL_EMP0076_1,Performance Improvement,Improve performance improvement by achieving 73% target,73,79,100.0,2026-01-19,Completed
+EMP0076,Engineering,GOAL_EMP0076_2,Performance Improvement,Improve performance improvement by achieving 87% target,87,83,95.40229885057471,2025-11-21,In Progress
+EMP0076,Engineering,GOAL_EMP0076_3,Performance Improvement,Improve performance improvement by achieving 71% target,71,64,90.14084507042254,2025-12-07,In Progress
+EMP0076,Engineering,GOAL_EMP0076_4,Skill Development,Improve skill development by achieving 93% target,93,67,72.04301075268818,2025-12-03,In Progress
+EMP0076,Engineering,GOAL_EMP0076_5,Skill Development,Improve skill development by achieving 86% target,86,61,70.93023255813954,2026-02-04,In Progress
+EMP0077,Finance,GOAL_EMP0077_1,Skill Development,Improve skill development by achieving 91% target,91,66,72.52747252747253,2026-01-26,In Progress
+EMP0077,Finance,GOAL_EMP0077_2,Project Completion,Improve project completion by achieving 74% target,74,64,86.48648648648648,2026-01-11,In Progress
+EMP0077,Finance,GOAL_EMP0077_3,Skill Development,Improve skill development by achieving 89% target,89,82,92.13483146067416,2025-12-25,In Progress
+EMP0078,Product Management,GOAL_EMP0078_1,Project Completion,Improve project completion by achieving 90% target,90,95,100.0,2025-10-13,Completed
+EMP0078,Product Management,GOAL_EMP0078_2,Leadership Development,Improve leadership development by achieving 83% target,83,63,75.90361445783132,2026-02-17,In Progress
+EMP0078,Product Management,GOAL_EMP0078_3,Performance Improvement,Improve performance improvement by achieving 89% target,89,70,78.65168539325843,2025-10-29,In Progress
+EMP0078,Product Management,GOAL_EMP0078_4,Performance Improvement,Improve performance improvement by achieving 78% target,78,62,79.48717948717949,2025-11-14,In Progress
+EMP0079,Product Management,GOAL_EMP0079_1,Process Optimization,Improve process optimization by achieving 82% target,82,54,65.85365853658537,2025-10-04,In Progress
+EMP0079,Product Management,GOAL_EMP0079_2,Performance Improvement,Improve performance improvement by achieving 78% target,78,83,100.0,2026-02-03,Completed
+EMP0079,Product Management,GOAL_EMP0079_3,Performance Improvement,Improve performance improvement by achieving 95% target,95,68,71.57894736842105,2025-11-14,In Progress
+EMP0079,Product Management,GOAL_EMP0079_4,Skill Development,Improve skill development by achieving 82% target,82,64,78.04878048780488,2025-09-30,In Progress
+EMP0080,Customer Support,GOAL_EMP0080_1,Process Optimization,Improve process optimization by achieving 83% target,83,79,95.18072289156626,2026-01-08,In Progress
+EMP0080,Customer Support,GOAL_EMP0080_2,Process Optimization,Improve process optimization by achieving 74% target,74,66,89.1891891891892,2026-01-18,In Progress
+EMP0080,Customer Support,GOAL_EMP0080_3,Process Optimization,Improve process optimization by achieving 72% target,72,60,83.33333333333334,2026-02-02,In Progress
+EMP0081,Engineering,GOAL_EMP0081_1,Performance Improvement,Improve performance improvement by achieving 82% target,82,80,97.5609756097561,2025-12-24,In Progress
+EMP0081,Engineering,GOAL_EMP0081_2,Performance Improvement,Improve performance improvement by achieving 86% target,86,67,77.90697674418605,2026-01-25,In Progress
+EMP0081,Engineering,GOAL_EMP0081_3,Skill Development,Improve skill development by achieving 70% target,70,78,100.0,2025-11-16,Completed
+EMP0082,Operations,GOAL_EMP0082_1,Performance Improvement,Improve performance improvement by achieving 90% target,90,74,82.22222222222221,2025-10-16,In Progress
+EMP0082,Operations,GOAL_EMP0082_2,Project Completion,Improve project completion by achieving 73% target,73,51,69.86301369863014,2025-11-16,In Progress
+EMP0082,Operations,GOAL_EMP0082_3,Leadership Development,Improve leadership development by achieving 75% target,75,85,100.0,2025-09-24,Completed
+EMP0082,Operations,GOAL_EMP0082_4,Process Optimization,Improve process optimization by achieving 73% target,73,73,100.0,2025-10-10,Completed
+EMP0082,Operations,GOAL_EMP0082_5,Performance Improvement,Improve performance improvement by achieving 89% target,89,74,83.14606741573034,2026-02-13,In Progress
+EMP0083,Product Management,GOAL_EMP0083_1,Performance Improvement,Improve performance improvement by achieving 71% target,71,74,100.0,2025-11-21,Completed
+EMP0083,Product Management,GOAL_EMP0083_2,Process Optimization,Improve process optimization by achieving 83% target,83,85,100.0,2025-12-10,Completed
+EMP0083,Product Management,GOAL_EMP0083_3,Client Satisfaction,Improve client satisfaction by achieving 95% target,95,52,54.736842105263165,2025-09-29,In Progress
+EMP0083,Product Management,GOAL_EMP0083_4,Skill Development,Improve skill development by achieving 81% target,81,68,83.9506172839506,2025-10-09,In Progress
+EMP0084,Engineering,GOAL_EMP0084_1,Client Satisfaction,Improve client satisfaction by achieving 75% target,75,58,77.33333333333333,2025-12-20,In Progress
+EMP0084,Engineering,GOAL_EMP0084_2,Process Optimization,Improve process optimization by achieving 82% target,82,73,89.02439024390245,2025-10-22,In Progress
+EMP0084,Engineering,GOAL_EMP0084_3,Leadership Development,Improve leadership development by achieving 75% target,75,76,100.0,2026-02-02,Completed
+EMP0084,Engineering,GOAL_EMP0084_4,Client Satisfaction,Improve client satisfaction by achieving 90% target,90,65,72.22222222222221,2025-11-20,In Progress
+EMP0085,Operations,GOAL_EMP0085_1,Client Satisfaction,Improve client satisfaction by achieving 90% target,90,73,81.11111111111111,2025-11-18,In Progress
+EMP0085,Operations,GOAL_EMP0085_2,Skill Development,Improve skill development by achieving 92% target,92,89,96.73913043478261,2025-09-28,In Progress
+EMP0085,Operations,GOAL_EMP0085_3,Performance Improvement,Improve performance improvement by achieving 74% target,74,76,100.0,2025-10-04,Completed
+EMP0086,Product Management,GOAL_EMP0086_1,Client Satisfaction,Improve client satisfaction by achieving 93% target,93,81,87.09677419354838,2025-12-31,In Progress
+EMP0086,Product Management,GOAL_EMP0086_2,Client Satisfaction,Improve client satisfaction by achieving 92% target,92,81,88.04347826086956,2025-12-24,In Progress
+EMP0086,Product Management,GOAL_EMP0086_3,Process Optimization,Improve process optimization by achieving 95% target,95,105,100.0,2026-02-13,Completed
+EMP0087,HR,GOAL_EMP0087_1,Leadership Development,Improve leadership development by achieving 85% target,85,93,100.0,2025-09-25,Completed
+EMP0087,HR,GOAL_EMP0087_2,Process Optimization,Improve process optimization by achieving 92% target,92,70,76.08695652173914,2026-02-09,In Progress
+EMP0087,HR,GOAL_EMP0087_3,Skill Development,Improve skill development by achieving 90% target,90,94,100.0,2025-11-20,Completed
+EMP0087,HR,GOAL_EMP0087_4,Performance Improvement,Improve performance improvement by achieving 86% target,86,64,74.4186046511628,2025-11-06,In Progress
+EMP0088,Operations,GOAL_EMP0088_1,Leadership Development,Improve leadership development by achieving 88% target,88,51,57.95454545454546,2025-12-08,In Progress
+EMP0088,Operations,GOAL_EMP0088_2,Performance Improvement,Improve performance improvement by achieving 76% target,76,53,69.73684210526315,2025-12-03,In Progress
+EMP0088,Operations,GOAL_EMP0088_3,Client Satisfaction,Improve client satisfaction by achieving 76% target,76,54,71.05263157894737,2026-01-07,In Progress
+EMP0088,Operations,GOAL_EMP0088_4,Leadership Development,Improve leadership development by achieving 74% target,74,82,100.0,2025-11-11,Completed
+EMP0089,Sales,GOAL_EMP0089_1,Leadership Development,Improve leadership development by achieving 88% target,88,60,68.18181818181817,2025-12-09,In Progress
+EMP0089,Sales,GOAL_EMP0089_2,Project Completion,Improve project completion by achieving 93% target,93,80,86.02150537634408,2026-01-27,In Progress
+EMP0089,Sales,GOAL_EMP0089_3,Performance Improvement,Improve performance improvement by achieving 93% target,93,65,69.89247311827957,2025-10-22,In Progress
+EMP0090,HR,GOAL_EMP0090_1,Client Satisfaction,Improve client satisfaction by achieving 72% target,72,61,84.72222222222221,2025-12-14,In Progress
+EMP0090,HR,GOAL_EMP0090_2,Project Completion,Improve project completion by achieving 70% target,70,58,82.85714285714286,2026-02-13,In Progress
+EMP0090,HR,GOAL_EMP0090_3,Process Optimization,Improve process optimization by achieving 87% target,87,75,86.20689655172413,2026-01-30,In Progress
+EMP0090,HR,GOAL_EMP0090_4,Process Optimization,Improve process optimization by achieving 83% target,83,65,78.3132530120482,2025-11-23,In Progress
+EMP0091,Marketing,GOAL_EMP0091_1,Project Completion,Improve project completion by achieving 86% target,86,53,61.627906976744185,2025-11-29,In Progress
+EMP0091,Marketing,GOAL_EMP0091_2,Leadership Development,Improve leadership development by achieving 83% target,83,56,67.46987951807229,2025-11-23,In Progress
+EMP0091,Marketing,GOAL_EMP0091_3,Client Satisfaction,Improve client satisfaction by achieving 94% target,94,104,100.0,2026-01-15,Completed
+EMP0091,Marketing,GOAL_EMP0091_4,Leadership Development,Improve leadership development by achieving 71% target,71,77,100.0,2025-10-05,Completed
+EMP0091,Marketing,GOAL_EMP0091_5,Process Optimization,Improve process optimization by achieving 74% target,74,68,91.8918918918919,2026-02-02,In Progress
+EMP0092,Sales,GOAL_EMP0092_1,Project Completion,Improve project completion by achieving 90% target,90,93,100.0,2026-01-06,Completed
+EMP0092,Sales,GOAL_EMP0092_2,Leadership Development,Improve leadership development by achieving 70% target,70,67,95.71428571428572,2026-02-10,In Progress
+EMP0092,Sales,GOAL_EMP0092_3,Performance Improvement,Improve performance improvement by achieving 70% target,70,57,81.42857142857143,2025-10-14,In Progress
+EMP0092,Sales,GOAL_EMP0092_4,Process Optimization,Improve process optimization by achieving 93% target,93,50,53.76344086021505,2025-10-19,In Progress
+EMP0093,Marketing,GOAL_EMP0093_1,Project Completion,Improve project completion by achieving 95% target,95,75,78.94736842105263,2026-01-15,In Progress
+EMP0093,Marketing,GOAL_EMP0093_2,Process Optimization,Improve process optimization by achieving 78% target,78,56,71.7948717948718,2025-12-19,In Progress
+EMP0093,Marketing,GOAL_EMP0093_3,Leadership Development,Improve leadership development by achieving 80% target,80,74,92.5,2025-10-27,In Progress
+EMP0094,HR,GOAL_EMP0094_1,Leadership Development,Improve leadership development by achieving 84% target,84,92,100.0,2025-11-04,Completed
+EMP0094,HR,GOAL_EMP0094_2,Leadership Development,Improve leadership development by achieving 70% target,70,54,77.14285714285715,2025-10-22,In Progress
+EMP0094,HR,GOAL_EMP0094_3,Project Completion,Improve project completion by achieving 73% target,73,77,100.0,2025-10-03,Completed
+EMP0094,HR,GOAL_EMP0094_4,Project Completion,Improve project completion by achieving 78% target,78,53,67.94871794871796,2025-12-06,In Progress
+EMP0094,HR,GOAL_EMP0094_5,Skill Development,Improve skill development by achieving 75% target,75,77,100.0,2026-01-22,Completed
+EMP0095,Sales,GOAL_EMP0095_1,Process Optimization,Improve process optimization by achieving 84% target,84,81,96.42857142857143,2025-12-23,In Progress
+EMP0095,Sales,GOAL_EMP0095_2,Project Completion,Improve project completion by achieving 73% target,73,65,89.04109589041096,2026-02-08,In Progress
+EMP0095,Sales,GOAL_EMP0095_3,Performance Improvement,Improve performance improvement by achieving 91% target,91,83,91.20879120879121,2025-12-27,In Progress
+EMP0095,Sales,GOAL_EMP0095_4,Performance Improvement,Improve performance improvement by achieving 81% target,81,74,91.35802469135803,2025-10-23,In Progress
+EMP0095,Sales,GOAL_EMP0095_5,Leadership Development,Improve leadership development by achieving 78% target,78,50,64.1025641025641,2026-02-09,In Progress
+EMP0096,Product Management,GOAL_EMP0096_1,Process Optimization,Improve process optimization by achieving 83% target,83,72,86.74698795180723,2026-01-25,In Progress
+EMP0096,Product Management,GOAL_EMP0096_2,Skill Development,Improve skill development by achieving 87% target,87,57,65.51724137931035,2025-12-11,In Progress
+EMP0096,Product Management,GOAL_EMP0096_3,Process Optimization,Improve process optimization by achieving 73% target,73,67,91.78082191780823,2025-10-06,In Progress
+EMP0096,Product Management,GOAL_EMP0096_4,Process Optimization,Improve process optimization by achieving 76% target,76,72,94.73684210526315,2025-12-18,In Progress
+EMP0096,Product Management,GOAL_EMP0096_5,Leadership Development,Improve leadership development by achieving 94% target,94,91,96.80851063829788,2025-12-11,In Progress
+EMP0097,Product Management,GOAL_EMP0097_1,Performance Improvement,Improve performance improvement by achieving 71% target,71,54,76.05633802816901,2026-01-15,In Progress
+EMP0097,Product Management,GOAL_EMP0097_2,Project Completion,Improve project completion by achieving 71% target,71,78,100.0,2025-11-11,Completed
+EMP0097,Product Management,GOAL_EMP0097_3,Process Optimization,Improve process optimization by achieving 83% target,83,57,68.67469879518072,2026-02-18,In Progress
+EMP0098,Customer Support,GOAL_EMP0098_1,Performance Improvement,Improve performance improvement by achieving 77% target,77,65,84.4155844155844,2026-01-02,In Progress
+EMP0098,Customer Support,GOAL_EMP0098_2,Process Optimization,Improve process optimization by achieving 83% target,83,75,90.36144578313254,2026-01-24,In Progress
+EMP0098,Customer Support,GOAL_EMP0098_3,Performance Improvement,Improve performance improvement by achieving 80% target,80,51,63.74999999999999,2025-12-28,In Progress
+EMP0098,Customer Support,GOAL_EMP0098_4,Client Satisfaction,Improve client satisfaction by achieving 91% target,91,88,96.7032967032967,2025-12-05,In Progress
+EMP0099,Sales,GOAL_EMP0099_1,Leadership Development,Improve leadership development by achieving 84% target,84,69,82.14285714285714,2025-12-29,In Progress
+EMP0099,Sales,GOAL_EMP0099_2,Process Optimization,Improve process optimization by achieving 92% target,92,73,79.34782608695652,2026-02-12,In Progress
+EMP0099,Sales,GOAL_EMP0099_3,Project Completion,Improve project completion by achieving 80% target,80,59,73.75,2025-12-16,In Progress
+EMP0100,Finance,GOAL_EMP0100_1,Skill Development,Improve skill development by achieving 91% target,91,72,79.12087912087912,2026-02-05,In Progress
+EMP0100,Finance,GOAL_EMP0100_2,Leadership Development,Improve leadership development by achieving 73% target,73,55,75.34246575342466,2026-01-31,In Progress
+EMP0100,Finance,GOAL_EMP0100_3,Performance Improvement,Improve performance improvement by achieving 84% target,84,82,97.61904761904762,2025-11-16,In Progress
+EMP0101,Product Management,GOAL_EMP0101_1,Performance Improvement,Improve performance improvement by achieving 91% target,91,89,97.8021978021978,2026-02-03,In Progress
+EMP0101,Product Management,GOAL_EMP0101_2,Leadership Development,Improve leadership development by achieving 76% target,76,83,100.0,2026-01-30,Completed
+EMP0101,Product Management,GOAL_EMP0101_3,Skill Development,Improve skill development by achieving 92% target,92,62,67.3913043478261,2025-10-24,In Progress
+EMP0101,Product Management,GOAL_EMP0101_4,Client Satisfaction,Improve client satisfaction by achieving 95% target,95,69,72.63157894736842,2026-01-06,In Progress
+EMP0101,Product Management,GOAL_EMP0101_5,Process Optimization,Improve process optimization by achieving 89% target,89,55,61.79775280898876,2025-12-22,In Progress
+EMP0102,Marketing,GOAL_EMP0102_1,Skill Development,Improve skill development by achieving 75% target,75,82,100.0,2025-09-22,Completed
+EMP0102,Marketing,GOAL_EMP0102_2,Leadership Development,Improve leadership development by achieving 81% target,81,91,100.0,2026-02-01,Completed
+EMP0102,Marketing,GOAL_EMP0102_3,Process Optimization,Improve process optimization by achieving 74% target,74,78,100.0,2025-11-11,Completed
+EMP0102,Marketing,GOAL_EMP0102_4,Process Optimization,Improve process optimization by achieving 84% target,84,86,100.0,2025-11-25,Completed
+EMP0102,Marketing,GOAL_EMP0102_5,Performance Improvement,Improve performance improvement by achieving 94% target,94,97,100.0,2025-12-29,Completed
+EMP0103,Marketing,GOAL_EMP0103_1,Performance Improvement,Improve performance improvement by achieving 78% target,78,71,91.02564102564102,2025-11-29,In Progress
+EMP0103,Marketing,GOAL_EMP0103_2,Project Completion,Improve project completion by achieving 94% target,94,69,73.40425531914893,2025-12-17,In Progress
+EMP0103,Marketing,GOAL_EMP0103_3,Client Satisfaction,Improve client satisfaction by achieving 80% target,80,55,68.75,2025-09-26,In Progress
+EMP0103,Marketing,GOAL_EMP0103_4,Process Optimization,Improve process optimization by achieving 73% target,73,83,100.0,2025-09-23,Completed
+EMP0103,Marketing,GOAL_EMP0103_5,Client Satisfaction,Improve client satisfaction by achieving 83% target,83,68,81.92771084337349,2025-11-07,In Progress
+EMP0104,Product Management,GOAL_EMP0104_1,Leadership Development,Improve leadership development by achieving 72% target,72,77,100.0,2025-12-31,Completed
+EMP0104,Product Management,GOAL_EMP0104_2,Process Optimization,Improve process optimization by achieving 87% target,87,92,100.0,2026-01-24,Completed
+EMP0104,Product Management,GOAL_EMP0104_3,Client Satisfaction,Improve client satisfaction by achieving 72% target,72,54,75.0,2026-01-24,In Progress
+EMP0105,Operations,GOAL_EMP0105_1,Leadership Development,Improve leadership development by achieving 81% target,81,59,72.8395061728395,2025-11-13,In Progress
+EMP0105,Operations,GOAL_EMP0105_2,Project Completion,Improve project completion by achieving 90% target,90,53,58.88888888888889,2025-11-05,In Progress
+EMP0105,Operations,GOAL_EMP0105_3,Skill Development,Improve skill development by achieving 75% target,75,68,90.66666666666666,2026-01-18,In Progress
+EMP0105,Operations,GOAL_EMP0105_4,Project Completion,Improve project completion by achieving 73% target,73,76,100.0,2025-12-17,Completed
+EMP0105,Operations,GOAL_EMP0105_5,Project Completion,Improve project completion by achieving 93% target,93,98,100.0,2025-11-28,Completed
+EMP0106,Product Management,GOAL_EMP0106_1,Performance Improvement,Improve performance improvement by achieving 77% target,77,64,83.11688311688312,2025-12-25,In Progress
+EMP0106,Product Management,GOAL_EMP0106_2,Performance Improvement,Improve performance improvement by achieving 73% target,73,50,68.4931506849315,2025-10-23,In Progress
+EMP0106,Product Management,GOAL_EMP0106_3,Process Optimization,Improve process optimization by achieving 76% target,76,64,84.21052631578947,2026-01-08,In Progress
+EMP0106,Product Management,GOAL_EMP0106_4,Leadership Development,Improve leadership development by achieving 85% target,85,81,95.29411764705881,2025-12-02,In Progress
+EMP0106,Product Management,GOAL_EMP0106_5,Project Completion,Improve project completion by achieving 95% target,95,98,100.0,2025-10-28,Completed
+EMP0107,Sales,GOAL_EMP0107_1,Leadership Development,Improve leadership development by achieving 75% target,75,59,78.66666666666666,2026-01-17,In Progress
+EMP0107,Sales,GOAL_EMP0107_2,Process Optimization,Improve process optimization by achieving 90% target,90,51,56.666666666666664,2025-12-31,In Progress
+EMP0107,Sales,GOAL_EMP0107_3,Project Completion,Improve project completion by achieving 78% target,78,73,93.58974358974359,2026-01-27,In Progress
+EMP0107,Sales,GOAL_EMP0107_4,Skill Development,Improve skill development by achieving 71% target,71,58,81.69014084507043,2026-01-15,In Progress
+EMP0108,Marketing,GOAL_EMP0108_1,Process Optimization,Improve process optimization by achieving 83% target,83,63,75.90361445783132,2026-02-07,In Progress
+EMP0108,Marketing,GOAL_EMP0108_2,Skill Development,Improve skill development by achieving 87% target,87,68,78.16091954022988,2025-12-17,In Progress
+EMP0108,Marketing,GOAL_EMP0108_3,Leadership Development,Improve leadership development by achieving 86% target,86,83,96.51162790697676,2025-11-01,In Progress
+EMP0108,Marketing,GOAL_EMP0108_4,Client Satisfaction,Improve client satisfaction by achieving 78% target,78,77,98.71794871794873,2025-10-24,In Progress
+EMP0109,Finance,GOAL_EMP0109_1,Performance Improvement,Improve performance improvement by achieving 77% target,77,74,96.1038961038961,2026-02-17,In Progress
+EMP0109,Finance,GOAL_EMP0109_2,Leadership Development,Improve leadership development by achieving 86% target,86,50,58.139534883720934,2025-11-24,In Progress
+EMP0109,Finance,GOAL_EMP0109_3,Performance Improvement,Improve performance improvement by achieving 92% target,92,71,77.17391304347827,2025-10-14,In Progress
+EMP0109,Finance,GOAL_EMP0109_4,Project Completion,Improve project completion by achieving 81% target,81,73,90.12345679012346,2025-10-19,In Progress
+EMP0109,Finance,GOAL_EMP0109_5,Performance Improvement,Improve performance improvement by achieving 91% target,91,67,73.62637362637363,2025-12-11,In Progress
+EMP0110,Operations,GOAL_EMP0110_1,Project Completion,Improve project completion by achieving 73% target,73,76,100.0,2025-10-14,Completed
+EMP0110,Operations,GOAL_EMP0110_2,Client Satisfaction,Improve client satisfaction by achieving 81% target,81,86,100.0,2026-02-06,Completed
+EMP0110,Operations,GOAL_EMP0110_3,Client Satisfaction,Improve client satisfaction by achieving 94% target,94,59,62.76595744680851,2026-01-01,In Progress
+EMP0110,Operations,GOAL_EMP0110_4,Performance Improvement,Improve performance improvement by achieving 72% target,72,56,77.77777777777779,2025-11-15,In Progress
+EMP0111,Product Management,GOAL_EMP0111_1,Client Satisfaction,Improve client satisfaction by achieving 85% target,85,92,100.0,2025-12-20,Completed
+EMP0111,Product Management,GOAL_EMP0111_2,Process Optimization,Improve process optimization by achieving 85% target,85,87,100.0,2026-01-31,Completed
+EMP0111,Product Management,GOAL_EMP0111_3,Skill Development,Improve skill development by achieving 74% target,74,76,100.0,2025-11-04,Completed
+EMP0111,Product Management,GOAL_EMP0111_4,Skill Development,Improve skill development by achieving 72% target,72,73,100.0,2025-12-24,Completed
+EMP0112,Finance,GOAL_EMP0112_1,Process Optimization,Improve process optimization by achieving 73% target,73,64,87.67123287671232,2025-10-26,In Progress
+EMP0112,Finance,GOAL_EMP0112_2,Process Optimization,Improve process optimization by achieving 91% target,91,70,76.92307692307693,2026-02-14,In Progress
+EMP0112,Finance,GOAL_EMP0112_3,Skill Development,Improve skill development by achieving 80% target,80,70,87.5,2026-01-08,In Progress
+EMP0113,Customer Support,GOAL_EMP0113_1,Skill Development,Improve skill development by achieving 77% target,77,51,66.23376623376623,2025-10-04,In Progress
+EMP0113,Customer Support,GOAL_EMP0113_2,Client Satisfaction,Improve client satisfaction by achieving 83% target,83,65,78.3132530120482,2026-02-12,In Progress
+EMP0113,Customer Support,GOAL_EMP0113_3,Skill Development,Improve skill development by achieving 75% target,75,50,66.66666666666666,2025-11-19,In Progress
+EMP0113,Customer Support,GOAL_EMP0113_4,Project Completion,Improve project completion by achieving 86% target,86,50,58.139534883720934,2025-11-20,In Progress
+EMP0113,Customer Support,GOAL_EMP0113_5,Performance Improvement,Improve performance improvement by achieving 78% target,78,72,92.3076923076923,2025-12-26,In Progress
+EMP0114,Product Management,GOAL_EMP0114_1,Process Optimization,Improve process optimization by achieving 76% target,76,75,98.68421052631578,2025-10-04,In Progress
+EMP0114,Product Management,GOAL_EMP0114_2,Process Optimization,Improve process optimization by achieving 84% target,84,64,76.19047619047619,2025-11-15,In Progress
+EMP0114,Product Management,GOAL_EMP0114_3,Performance Improvement,Improve performance improvement by achieving 71% target,71,78,100.0,2026-02-17,Completed
+EMP0114,Product Management,GOAL_EMP0114_4,Process Optimization,Improve process optimization by achieving 94% target,94,85,90.42553191489363,2025-11-17,In Progress
+EMP0115,Operations,GOAL_EMP0115_1,Process Optimization,Improve process optimization by achieving 80% target,80,82,100.0,2025-09-27,Completed
+EMP0115,Operations,GOAL_EMP0115_2,Skill Development,Improve skill development by achieving 90% target,90,98,100.0,2025-12-12,Completed
+EMP0115,Operations,GOAL_EMP0115_3,Skill Development,Improve skill development by achieving 88% target,88,60,68.18181818181817,2026-01-28,In Progress
+EMP0115,Operations,GOAL_EMP0115_4,Performance Improvement,Improve performance improvement by achieving 79% target,79,79,100.0,2025-12-27,Completed
+EMP0115,Operations,GOAL_EMP0115_5,Project Completion,Improve project completion by achieving 89% target,89,53,59.55056179775281,2026-01-30,In Progress
+EMP0116,HR,GOAL_EMP0116_1,Leadership Development,Improve leadership development by achieving 78% target,78,52,66.66666666666666,2025-11-03,In Progress
+EMP0116,HR,GOAL_EMP0116_2,Performance Improvement,Improve performance improvement by achieving 84% target,84,84,100.0,2026-01-02,Completed
+EMP0116,HR,GOAL_EMP0116_3,Skill Development,Improve skill development by achieving 86% target,86,77,89.53488372093024,2025-10-20,In Progress
+EMP0116,HR,GOAL_EMP0116_4,Process Optimization,Improve process optimization by achieving 94% target,94,66,70.2127659574468,2025-12-11,In Progress
+EMP0116,HR,GOAL_EMP0116_5,Process Optimization,Improve process optimization by achieving 85% target,85,57,67.05882352941175,2026-01-03,In Progress
+EMP0117,Sales,GOAL_EMP0117_1,Client Satisfaction,Improve client satisfaction by achieving 95% target,95,53,55.78947368421052,2025-12-04,In Progress
+EMP0117,Sales,GOAL_EMP0117_2,Performance Improvement,Improve performance improvement by achieving 91% target,91,53,58.24175824175825,2025-11-16,In Progress
+EMP0117,Sales,GOAL_EMP0117_3,Client Satisfaction,Improve client satisfaction by achieving 89% target,89,91,100.0,2025-10-26,Completed
+EMP0117,Sales,GOAL_EMP0117_4,Process Optimization,Improve process optimization by achieving 93% target,93,72,77.41935483870968,2026-01-12,In Progress
+EMP0117,Sales,GOAL_EMP0117_5,Leadership Development,Improve leadership development by achieving 90% target,90,80,88.88888888888889,2026-01-15,In Progress
+EMP0118,Product Management,GOAL_EMP0118_1,Project Completion,Improve project completion by achieving 79% target,79,58,73.41772151898735,2026-02-13,In Progress
+EMP0118,Product Management,GOAL_EMP0118_2,Process Optimization,Improve process optimization by achieving 72% target,72,80,100.0,2026-02-06,Completed
+EMP0118,Product Management,GOAL_EMP0118_3,Process Optimization,Improve process optimization by achieving 82% target,82,71,86.58536585365853,2025-10-09,In Progress
+EMP0118,Product Management,GOAL_EMP0118_4,Leadership Development,Improve leadership development by achieving 74% target,74,57,77.02702702702703,2026-01-23,In Progress
+EMP0119,Marketing,GOAL_EMP0119_1,Skill Development,Improve skill development by achieving 70% target,70,62,88.57142857142857,2025-10-01,In Progress
+EMP0119,Marketing,GOAL_EMP0119_2,Skill Development,Improve skill development by achieving 76% target,76,78,100.0,2025-10-14,Completed
+EMP0119,Marketing,GOAL_EMP0119_3,Client Satisfaction,Improve client satisfaction by achieving 91% target,91,89,97.8021978021978,2025-11-16,In Progress
+EMP0120,Customer Support,GOAL_EMP0120_1,Client Satisfaction,Improve client satisfaction by achieving 95% target,95,85,89.47368421052632,2025-11-23,In Progress
+EMP0120,Customer Support,GOAL_EMP0120_2,Performance Improvement,Improve performance improvement by achieving 74% target,74,56,75.67567567567568,2025-11-17,In Progress
+EMP0120,Customer Support,GOAL_EMP0120_3,Leadership Development,Improve leadership development by achieving 84% target,84,65,77.38095238095238,2026-01-17,In Progress
+EMP0120,Customer Support,GOAL_EMP0120_4,Skill Development,Improve skill development by achieving 80% target,80,76,95.0,2025-12-23,In Progress
+EMP0121,Finance,GOAL_EMP0121_1,Project Completion,Improve project completion by achieving 86% target,86,88,100.0,2025-12-10,Completed
+EMP0121,Finance,GOAL_EMP0121_2,Skill Development,Improve skill development by achieving 70% target,70,51,72.85714285714285,2026-02-14,In Progress
+EMP0121,Finance,GOAL_EMP0121_3,Leadership Development,Improve leadership development by achieving 74% target,74,60,81.08108108108108,2025-10-22,In Progress
+EMP0121,Finance,GOAL_EMP0121_4,Project Completion,Improve project completion by achieving 91% target,91,63,69.23076923076923,2025-12-15,In Progress
+EMP0122,Marketing,GOAL_EMP0122_1,Skill Development,Improve skill development by achieving 81% target,81,53,65.4320987654321,2025-10-02,In Progress
+EMP0122,Marketing,GOAL_EMP0122_2,Client Satisfaction,Improve client satisfaction by achieving 82% target,82,55,67.07317073170732,2026-02-11,In Progress
+EMP0122,Marketing,GOAL_EMP0122_3,Skill Development,Improve skill development by achieving 89% target,89,80,89.8876404494382,2025-09-30,In Progress
+EMP0122,Marketing,GOAL_EMP0122_4,Project Completion,Improve project completion by achieving 77% target,77,66,85.71428571428571,2025-10-13,In Progress
+EMP0123,Customer Support,GOAL_EMP0123_1,Project Completion,Improve project completion by achieving 83% target,83,84,100.0,2026-02-12,Completed
+EMP0123,Customer Support,GOAL_EMP0123_2,Process Optimization,Improve process optimization by achieving 83% target,83,91,100.0,2025-12-22,Completed
+EMP0123,Customer Support,GOAL_EMP0123_3,Leadership Development,Improve leadership development by achieving 95% target,95,95,100.0,2025-10-13,Completed
+EMP0123,Customer Support,GOAL_EMP0123_4,Skill Development,Improve skill development by achieving 78% target,78,59,75.64102564102564,2025-12-20,In Progress
+EMP0123,Customer Support,GOAL_EMP0123_5,Process Optimization,Improve process optimization by achieving 70% target,70,52,74.28571428571429,2025-11-01,In Progress
+EMP0124,Operations,GOAL_EMP0124_1,Client Satisfaction,Improve client satisfaction by achieving 90% target,90,60,66.66666666666666,2025-12-17,In Progress
+EMP0124,Operations,GOAL_EMP0124_2,Performance Improvement,Improve performance improvement by achieving 94% target,94,103,100.0,2026-02-16,Completed
+EMP0124,Operations,GOAL_EMP0124_3,Project Completion,Improve project completion by achieving 80% target,80,68,85.0,2025-10-31,In Progress
+EMP0125,Customer Support,GOAL_EMP0125_1,Skill Development,Improve skill development by achieving 92% target,92,95,100.0,2025-12-07,Completed
+EMP0125,Customer Support,GOAL_EMP0125_2,Client Satisfaction,Improve client satisfaction by achieving 81% target,81,55,67.90123456790124,2025-11-12,In Progress
+EMP0125,Customer Support,GOAL_EMP0125_3,Performance Improvement,Improve performance improvement by achieving 89% target,89,60,67.41573033707866,2026-01-18,In Progress
+EMP0126,Product Management,GOAL_EMP0126_1,Skill Development,Improve skill development by achieving 91% target,91,67,73.62637362637363,2026-02-06,In Progress
+EMP0126,Product Management,GOAL_EMP0126_2,Skill Development,Improve skill development by achieving 74% target,74,64,86.48648648648648,2025-12-03,In Progress
+EMP0126,Product Management,GOAL_EMP0126_3,Client Satisfaction,Improve client satisfaction by achieving 92% target,92,74,80.43478260869566,2026-01-23,In Progress
+EMP0127,Engineering,GOAL_EMP0127_1,Process Optimization,Improve process optimization by achieving 70% target,70,51,72.85714285714285,2026-02-18,In Progress
+EMP0127,Engineering,GOAL_EMP0127_2,Project Completion,Improve project completion by achieving 77% target,77,58,75.32467532467533,2026-01-03,In Progress
+EMP0127,Engineering,GOAL_EMP0127_3,Performance Improvement,Improve performance improvement by achieving 70% target,70,72,100.0,2025-12-09,Completed
+EMP0127,Engineering,GOAL_EMP0127_4,Skill Development,Improve skill development by achieving 79% target,79,59,74.68354430379746,2026-01-06,In Progress
+EMP0128,Engineering,GOAL_EMP0128_1,Leadership Development,Improve leadership development by achieving 84% target,84,91,100.0,2025-12-08,Completed
+EMP0128,Engineering,GOAL_EMP0128_2,Leadership Development,Improve leadership development by achieving 72% target,72,59,81.94444444444444,2025-11-26,In Progress
+EMP0128,Engineering,GOAL_EMP0128_3,Performance Improvement,Improve performance improvement by achieving 95% target,95,89,93.6842105263158,2025-12-29,In Progress
+EMP0128,Engineering,GOAL_EMP0128_4,Process Optimization,Improve process optimization by achieving 75% target,75,76,100.0,2025-11-03,Completed
+EMP0129,Engineering,GOAL_EMP0129_1,Performance Improvement,Improve performance improvement by achieving 75% target,75,76,100.0,2025-09-23,Completed
+EMP0129,Engineering,GOAL_EMP0129_2,Skill Development,Improve skill development by achieving 82% target,82,86,100.0,2025-12-04,Completed
+EMP0129,Engineering,GOAL_EMP0129_3,Process Optimization,Improve process optimization by achieving 75% target,75,83,100.0,2025-10-28,Completed
+EMP0129,Engineering,GOAL_EMP0129_4,Leadership Development,Improve leadership development by achieving 71% target,71,80,100.0,2026-02-10,Completed
+EMP0129,Engineering,GOAL_EMP0129_5,Skill Development,Improve skill development by achieving 79% target,79,60,75.9493670886076,2025-11-26,In Progress
+EMP0130,Engineering,GOAL_EMP0130_1,Process Optimization,Improve process optimization by achieving 74% target,74,70,94.5945945945946,2026-01-25,In Progress
+EMP0130,Engineering,GOAL_EMP0130_2,Client Satisfaction,Improve client satisfaction by achieving 88% target,88,54,61.36363636363637,2025-10-09,In Progress
+EMP0130,Engineering,GOAL_EMP0130_3,Client Satisfaction,Improve client satisfaction by achieving 94% target,94,87,92.5531914893617,2026-01-29,In Progress
+EMP0130,Engineering,GOAL_EMP0130_4,Leadership Development,Improve leadership development by achieving 89% target,89,76,85.39325842696628,2025-12-11,In Progress
+EMP0131,Engineering,GOAL_EMP0131_1,Client Satisfaction,Improve client satisfaction by achieving 74% target,74,70,94.5945945945946,2025-11-16,In Progress
+EMP0131,Engineering,GOAL_EMP0131_2,Leadership Development,Improve leadership development by achieving 70% target,70,76,100.0,2025-11-23,Completed
+EMP0131,Engineering,GOAL_EMP0131_3,Project Completion,Improve project completion by achieving 76% target,76,61,80.26315789473685,2025-12-17,In Progress
+EMP0131,Engineering,GOAL_EMP0131_4,Performance Improvement,Improve performance improvement by achieving 80% target,80,64,80.0,2025-11-23,In Progress
+EMP0132,Marketing,GOAL_EMP0132_1,Performance Improvement,Improve performance improvement by achieving 87% target,87,83,95.40229885057471,2026-02-08,In Progress
+EMP0132,Marketing,GOAL_EMP0132_2,Skill Development,Improve skill development by achieving 70% target,70,62,88.57142857142857,2025-12-02,In Progress
+EMP0132,Marketing,GOAL_EMP0132_3,Performance Improvement,Improve performance improvement by achieving 80% target,80,61,76.25,2025-10-29,In Progress
+EMP0132,Marketing,GOAL_EMP0132_4,Client Satisfaction,Improve client satisfaction by achieving 92% target,92,91,98.91304347826086,2026-02-11,In Progress
+EMP0133,Sales,GOAL_EMP0133_1,Process Optimization,Improve process optimization by achieving 77% target,77,64,83.11688311688312,2025-12-29,In Progress
+EMP0133,Sales,GOAL_EMP0133_2,Project Completion,Improve project completion by achieving 94% target,94,89,94.68085106382979,2026-02-17,In Progress
+EMP0133,Sales,GOAL_EMP0133_3,Project Completion,Improve project completion by achieving 84% target,84,54,64.28571428571429,2026-01-31,In Progress
+EMP0133,Sales,GOAL_EMP0133_4,Client Satisfaction,Improve client satisfaction by achieving 84% target,84,53,63.095238095238095,2025-12-03,In Progress
+EMP0133,Sales,GOAL_EMP0133_5,Leadership Development,Improve leadership development by achieving 86% target,86,52,60.46511627906976,2025-10-26,In Progress
+EMP0134,Product Management,GOAL_EMP0134_1,Process Optimization,Improve process optimization by achieving 75% target,75,66,88.0,2025-11-28,In Progress
+EMP0134,Product Management,GOAL_EMP0134_2,Leadership Development,Improve leadership development by achieving 81% target,81,77,95.06172839506173,2025-12-04,In Progress
+EMP0134,Product Management,GOAL_EMP0134_3,Process Optimization,Improve process optimization by achieving 92% target,92,101,100.0,2025-09-29,Completed
+EMP0135,Engineering,GOAL_EMP0135_1,Leadership Development,Improve leadership development by achieving 83% target,83,53,63.85542168674698,2025-10-14,In Progress
+EMP0135,Engineering,GOAL_EMP0135_2,Process Optimization,Improve process optimization by achieving 70% target,70,51,72.85714285714285,2026-01-17,In Progress
+EMP0135,Engineering,GOAL_EMP0135_3,Client Satisfaction,Improve client satisfaction by achieving 76% target,76,77,100.0,2025-12-02,Completed
+EMP0135,Engineering,GOAL_EMP0135_4,Performance Improvement,Improve performance improvement by achieving 79% target,79,57,72.15189873417721,2025-10-13,In Progress
+EMP0136,Sales,GOAL_EMP0136_1,Skill Development,Improve skill development by achieving 86% target,86,91,100.0,2026-01-25,Completed
+EMP0136,Sales,GOAL_EMP0136_2,Performance Improvement,Improve performance improvement by achieving 88% target,88,90,100.0,2025-12-19,Completed
+EMP0136,Sales,GOAL_EMP0136_3,Skill Development,Improve skill development by achieving 70% target,70,53,75.71428571428571,2025-09-27,In Progress
+EMP0136,Sales,GOAL_EMP0136_4,Project Completion,Improve project completion by achieving 85% target,85,58,68.23529411764706,2025-11-06,In Progress
+EMP0137,Finance,GOAL_EMP0137_1,Process Optimization,Improve process optimization by achieving 93% target,93,90,96.7741935483871,2025-12-01,In Progress
+EMP0137,Finance,GOAL_EMP0137_2,Project Completion,Improve project completion by achieving 73% target,73,75,100.0,2025-11-28,Completed
+EMP0137,Finance,GOAL_EMP0137_3,Performance Improvement,Improve performance improvement by achieving 76% target,76,85,100.0,2026-01-13,Completed
+EMP0138,Customer Support,GOAL_EMP0138_1,Skill Development,Improve skill development by achieving 92% target,92,62,67.3913043478261,2025-12-16,In Progress
+EMP0138,Customer Support,GOAL_EMP0138_2,Leadership Development,Improve leadership development by achieving 92% target,92,55,59.78260869565217,2026-01-14,In Progress
+EMP0138,Customer Support,GOAL_EMP0138_3,Project Completion,Improve project completion by achieving 85% target,85,93,100.0,2026-01-09,Completed
+EMP0139,Engineering,GOAL_EMP0139_1,Client Satisfaction,Improve client satisfaction by achieving 82% target,82,75,91.46341463414635,2025-09-30,In Progress
+EMP0139,Engineering,GOAL_EMP0139_2,Performance Improvement,Improve performance improvement by achieving 83% target,83,61,73.49397590361446,2026-01-19,In Progress
+EMP0139,Engineering,GOAL_EMP0139_3,Client Satisfaction,Improve client satisfaction by achieving 95% target,95,65,68.42105263157895,2025-12-14,In Progress
+EMP0140,Marketing,GOAL_EMP0140_1,Skill Development,Improve skill development by achieving 95% target,95,99,100.0,2025-12-14,Completed
+EMP0140,Marketing,GOAL_EMP0140_2,Leadership Development,Improve leadership development by achieving 89% target,89,99,100.0,2025-11-16,Completed
+EMP0140,Marketing,GOAL_EMP0140_3,Project Completion,Improve project completion by achieving 80% target,80,67,83.75,2025-10-12,In Progress
+EMP0140,Marketing,GOAL_EMP0140_4,Project Completion,Improve project completion by achieving 83% target,83,86,100.0,2026-02-12,Completed
+EMP0140,Marketing,GOAL_EMP0140_5,Project Completion,Improve project completion by achieving 91% target,91,92,100.0,2025-10-21,Completed
+EMP0141,Finance,GOAL_EMP0141_1,Project Completion,Improve project completion by achieving 72% target,72,52,72.22222222222221,2025-12-18,In Progress
+EMP0141,Finance,GOAL_EMP0141_2,Skill Development,Improve skill development by achieving 93% target,93,82,88.17204301075269,2025-12-07,In Progress
+EMP0141,Finance,GOAL_EMP0141_3,Process Optimization,Improve process optimization by achieving 73% target,73,61,83.56164383561644,2025-12-13,In Progress
+EMP0141,Finance,GOAL_EMP0141_4,Leadership Development,Improve leadership development by achieving 84% target,84,64,76.19047619047619,2025-10-17,In Progress
+EMP0142,HR,GOAL_EMP0142_1,Leadership Development,Improve leadership development by achieving 92% target,92,86,93.47826086956522,2025-11-07,In Progress
+EMP0142,HR,GOAL_EMP0142_2,Skill Development,Improve skill development by achieving 82% target,82,63,76.82926829268293,2026-01-22,In Progress
+EMP0142,HR,GOAL_EMP0142_3,Project Completion,Improve project completion by achieving 77% target,77,53,68.83116883116884,2025-12-16,In Progress
+EMP0142,HR,GOAL_EMP0142_4,Performance Improvement,Improve performance improvement by achieving 87% target,87,69,79.3103448275862,2025-10-23,In Progress
+EMP0142,HR,GOAL_EMP0142_5,Leadership Development,Improve leadership development by achieving 88% target,88,53,60.22727272727273,2025-10-29,In Progress
+EMP0143,Finance,GOAL_EMP0143_1,Performance Improvement,Improve performance improvement by achieving 71% target,71,59,83.09859154929578,2025-10-17,In Progress
+EMP0143,Finance,GOAL_EMP0143_2,Skill Development,Improve skill development by achieving 70% target,70,61,87.14285714285714,2025-12-27,In Progress
+EMP0143,Finance,GOAL_EMP0143_3,Leadership Development,Improve leadership development by achieving 94% target,94,94,100.0,2025-10-12,Completed
+EMP0143,Finance,GOAL_EMP0143_4,Client Satisfaction,Improve client satisfaction by achieving 74% target,74,52,70.27027027027027,2025-11-03,In Progress
+EMP0144,Operations,GOAL_EMP0144_1,Skill Development,Improve skill development by achieving 71% target,71,52,73.23943661971832,2025-10-17,In Progress
+EMP0144,Operations,GOAL_EMP0144_2,Performance Improvement,Improve performance improvement by achieving 73% target,73,67,91.78082191780823,2025-12-30,In Progress
+EMP0144,Operations,GOAL_EMP0144_3,Process Optimization,Improve process optimization by achieving 70% target,70,80,100.0,2025-10-07,Completed
+EMP0145,HR,GOAL_EMP0145_1,Skill Development,Improve skill development by achieving 79% target,79,82,100.0,2026-02-13,Completed
+EMP0145,HR,GOAL_EMP0145_2,Skill Development,Improve skill development by achieving 72% target,72,52,72.22222222222221,2025-12-31,In Progress
+EMP0145,HR,GOAL_EMP0145_3,Skill Development,Improve skill development by achieving 88% target,88,65,73.86363636363636,2025-12-03,In Progress
+EMP0145,HR,GOAL_EMP0145_4,Process Optimization,Improve process optimization by achieving 76% target,76,69,90.78947368421053,2026-01-29,In Progress
+EMP0145,HR,GOAL_EMP0145_5,Performance Improvement,Improve performance improvement by achieving 72% target,72,69,95.83333333333334,2026-01-26,In Progress
+EMP0146,HR,GOAL_EMP0146_1,Leadership Development,Improve leadership development by achieving 75% target,75,65,86.66666666666667,2026-01-28,In Progress
+EMP0146,HR,GOAL_EMP0146_2,Process Optimization,Improve process optimization by achieving 78% target,78,87,100.0,2025-11-03,Completed
+EMP0146,HR,GOAL_EMP0146_3,Leadership Development,Improve leadership development by achieving 86% target,86,93,100.0,2025-10-11,Completed
+EMP0147,Product Management,GOAL_EMP0147_1,Leadership Development,Improve leadership development by achieving 92% target,92,68,73.91304347826086,2025-12-02,In Progress
+EMP0147,Product Management,GOAL_EMP0147_2,Client Satisfaction,Improve client satisfaction by achieving 88% target,88,80,90.9090909090909,2026-01-05,In Progress
+EMP0147,Product Management,GOAL_EMP0147_3,Client Satisfaction,Improve client satisfaction by achieving 82% target,82,92,100.0,2026-01-20,Completed
+EMP0147,Product Management,GOAL_EMP0147_4,Skill Development,Improve skill development by achieving 90% target,90,71,78.88888888888889,2026-01-11,In Progress
+EMP0147,Product Management,GOAL_EMP0147_5,Process Optimization,Improve process optimization by achieving 82% target,82,51,62.19512195121951,2025-10-03,In Progress
+EMP0148,Marketing,GOAL_EMP0148_1,Project Completion,Improve project completion by achieving 91% target,91,68,74.72527472527473,2026-01-19,In Progress
+EMP0148,Marketing,GOAL_EMP0148_2,Client Satisfaction,Improve client satisfaction by achieving 85% target,85,55,64.70588235294117,2025-12-15,In Progress
+EMP0148,Marketing,GOAL_EMP0148_3,Client Satisfaction,Improve client satisfaction by achieving 82% target,82,85,100.0,2025-12-15,Completed
+EMP0148,Marketing,GOAL_EMP0148_4,Skill Development,Improve skill development by achieving 88% target,88,62,70.45454545454545,2025-11-21,In Progress
+EMP0148,Marketing,GOAL_EMP0148_5,Performance Improvement,Improve performance improvement by achieving 92% target,92,55,59.78260869565217,2026-01-05,In Progress
+EMP0149,Operations,GOAL_EMP0149_1,Client Satisfaction,Improve client satisfaction by achieving 84% target,84,84,100.0,2025-12-02,Completed
+EMP0149,Operations,GOAL_EMP0149_2,Skill Development,Improve skill development by achieving 82% target,82,51,62.19512195121951,2025-12-28,In Progress
+EMP0149,Operations,GOAL_EMP0149_3,Client Satisfaction,Improve client satisfaction by achieving 83% target,83,60,72.28915662650603,2025-10-10,In Progress
+EMP0149,Operations,GOAL_EMP0149_4,Client Satisfaction,Improve client satisfaction by achieving 89% target,89,74,83.14606741573034,2026-01-27,In Progress
+EMP0150,Finance,GOAL_EMP0150_1,Performance Improvement,Improve performance improvement by achieving 72% target,72,57,79.16666666666666,2025-12-12,In Progress
+EMP0150,Finance,GOAL_EMP0150_2,Performance Improvement,Improve performance improvement by achieving 94% target,94,103,100.0,2025-11-05,Completed
+EMP0150,Finance,GOAL_EMP0150_3,Process Optimization,Improve process optimization by achieving 88% target,88,98,100.0,2026-01-08,Completed
+EMP0150,Finance,GOAL_EMP0150_4,Project Completion,Improve project completion by achieving 77% target,77,68,88.31168831168831,2025-12-18,In Progress
+EMP0150,Finance,GOAL_EMP0150_5,Client Satisfaction,Improve client satisfaction by achieving 95% target,95,53,55.78947368421052,2025-11-01,In Progress
